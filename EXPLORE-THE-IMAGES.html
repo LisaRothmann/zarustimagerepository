@@ -16,7 +16,7 @@
 <script src="site_libs/header-attrs-2.18/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/darkly.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -29,6 +29,9 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -219,6 +222,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -226,6 +292,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -243,9 +319,6 @@ $(document).ready(function () {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="THE-TEAM.html">THE TEAM</a>
-</li>
-<li>
   <a href="WHAT-ARE-RUSTS.html">WHAT ARE RUSTS?</a>
 </li>
 <li>
@@ -253,6 +326,9 @@ $(document).ready(function () {
 </li>
 <li>
   <a href="EXPLORE-THE-IMAGES.html">EXPLORE THE GALLERY</a>
+</li>
+<li>
+  <a href="THE-TEAM.html">THE TEAM</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -272,9 +348,186 @@ $(document).ready(function () {
 
 
 <hr />
+<div id="austropuccinia" class="section level1">
+<h1><strong><em>Austropuccinia</em></strong></h1>
+<div id="austropuccinia-psidii" class="section level2">
+<h2><em>Austropuccinia psidii</em></h2>
+<p><img src="images/Austropuccinia%20psidii/Austropuccinia%20psidii%20(1).jpg" width="350px"></p>
+<p><img src="images/Austropuccinia%20psidii/Austropuccinia%20psidii%20(2).jpg" width="350px"></p>
+<p><img src="images/Austropuccinia%20psidii/Austropuccinia%20psidii%20(3).jpg" width="350px"></p>
+<p><img src="images/Austropuccinia%20psidii/Austropuccinia%20psidii%20(4).jpg" width="350px"></p>
+<p><img src="images/Austropuccinia%20psidii/Austropuccinia%20psidii%20(5).jpg" width="350px"></p>
+<p><img src="images/Austropuccinia%20psidii/Austropuccinia%20psidii%20(6).jpg" width="350px"></p>
+<p><img src="images/Austropuccinia%20psidii/Austropuccinia%20psidii%20(7).jpg" width="350px"></p>
+<p><img src="images/Austropuccinia%20psidii/Austropuccinia%20psidii%20(8).jpg" width="350px"></p>
+<p><img src="images/Austropuccinia%20psidii/Austropuccinia%20psidii%20(9).jpg" width="350px"></p>
+<p><img src="images/Austropuccinia%20psidii/Austropuccinia%20psidii%20(10).jpg" width="350px"></p>
+<p><img src="images/Austropuccinia%20psidii/Austropuccinia%20psidii%20(11).jpg" width="350px"></p>
+<p><img src="images/Austropuccinia%20psidii/Austropuccinia%20psidii%20(12).jpg" width="350px"></p>
+</div>
+</div>
+<div id="coleosporium" class="section level1">
+<h1><strong><em>Coleosporium</em></strong></h1>
+<div id="coleosporium-plumeriae" class="section level2">
+<h2><em>Coleosporium plumeriae</em></h2>
+<p><img src="images/Coleosporium%20plumeriae/Coleosporium%20plumeriae%20(1).jpg" width="350px"></p>
+<p><img src="images/Coleosporium%20plumeriae/Coleosporium%20plumeriae%20(2).jpg" width="350px"></p>
+<p><img src="images/Coleosporium%20plumeriae/Coleosporium%20plumeriae%20(3).jpg" width="350px"></p>
+<p><img src="images/Coleosporium%20plumeriae/Coleosporium%20plumeriae%20(4).jpg" width="350px"></p>
+</div>
+</div>
+<div id="endophyllum" class="section level1">
+<h1><strong><em>Endophyllum</em></strong></h1>
+<div id="endophyllum-osteospermi" class="section level2">
+<h2><em>Endophyllum osteospermi</em></h2>
+</div>
+</div>
+<div id="kuehnola" class="section level1">
+<h1><strong><em>Kuehnola</em></strong></h1>
+<div id="kuehnola-uridinis" class="section level2">
+<h2><em>Kuehnola uridinis</em></h2>
+</div>
+</div>
+<div id="melampsora" class="section level1">
+<h1><strong><em>Melampsora</em></strong></h1>
+<div id="melampsora-larici-populina" class="section level2">
+<h2><em>Melampsora larici-populina</em></h2>
+</div>
+</div>
+<div id="phakospora" class="section level1">
+<h1><strong><em>Phakospora</em></strong></h1>
+<div id="phakopsora-nishidana" class="section level2">
+<h2><em>Phakopsora nishidana</em></h2>
+</div>
+<div id="phakopsora-pachyrhizi" class="section level2">
+<h2><em>Phakopsora pachyrhizi</em></h2>
+</div>
+</div>
+<div id="phragmidium" class="section level1">
+<h1><strong><em>Phragmidium</em></strong></h1>
+<div id="phragmidium-fragariae" class="section level2">
+<h2><em>Phragmidium fragariae</em></h2>
+</div>
+<div id="phragmidium-mucronatum" class="section level2">
+<h2><em>Phragmidium mucronatum</em></h2>
+</div>
+</div>
+<div id="puccinia" class="section level1">
+<h1><strong><em>Puccinia</em></strong></h1>
+<div id="puccinia-antherrini" class="section level2">
+<h2><em>Puccinia antherrini</em></h2>
+</div>
+<div id="puccinia-coronata-f.-sp.-avenae" class="section level2">
+<h2><em>Puccinia coronata</em> f. sp. <em>avenae</em></h2>
+</div>
+<div id="puccinia-dehiscens" class="section level2">
+<h2><em>Puccinia dehiscens</em></h2>
+</div>
+<div id="puccinia-digitariae" class="section level2">
+<h2><em>Puccinia digitariae</em></h2>
+</div>
+<div id="puccinia-doidgeae" class="section level2">
+<h2><em>Puccinia doidgeae</em></h2>
+</div>
+<div id="puccinia-graminis-f.-sp.-avenae" class="section level2">
+<h2><em>Puccinia graminis</em> f. sp. <em>avenae</em></h2>
+</div>
+<div id="puccinia-graminis-f.-sp.-tritici" class="section level2">
+<h2><em>Puccinia graminis</em> f. sp. <em>tritici</em></h2>
+</div>
+<div id="puccinia-granularis" class="section level2">
+<h2><em>Puccinia granularis</em></h2>
+</div>
+<div id="puccinia-helianthi" class="section level2">
+<h2><em>Puccinia helianthi</em></h2>
+</div>
+<div id="puccinia-hemerocallidis" class="section level2">
+<h2><em>Puccinia hemerocallidis</em></h2>
+</div>
+<div id="puccinia-hordei" class="section level2">
+<h2><em>Puccinia hordei</em></h2>
+</div>
+<div id="puccinia-lagenophorae" class="section level2">
+<h2><em>Puccinia lagenophorae</em></h2>
+</div>
+<div id="puccinia-malvacearum" class="section level2">
+<h2><em>Puccinia malvacearum</em></h2>
+</div>
+<div id="puccinia-menthae" class="section level2">
+<h2><em>Puccinia menthae</em></h2>
+</div>
+<div id="puccinia-pelargonii-zonalis" class="section level2">
+<h2><em>Puccinia pelargonii-zonalis</em></h2>
+</div>
+<div id="puccinia-polycampta" class="section level2">
+<h2><em>Puccinia polycampta</em></h2>
+</div>
+<div id="puccinia-polypogonis" class="section level2">
+<h2><em>Puccinia polypogonis</em></h2>
+</div>
+<div id="puccinia-porri" class="section level2">
+<h2><em>Puccinia porri</em></h2>
+</div>
+<div id="puccinia-sorghi" class="section level2">
+<h2><em>Puccinia sorghi</em></h2>
+</div>
+<div id="puccinia-stenotaphri" class="section level2">
+<h2><em>Puccinia stenotaphri</em></h2>
+</div>
+<div id="puccinia-striiformis-f.-sp.-tritici" class="section level2">
+<h2><em>Puccinia striiformis</em> f. sp. <em>tritici</em></h2>
+</div>
+<div id="puccinia-tanaceti" class="section level2">
+<h2><em>Puccinia tanaceti</em></h2>
+</div>
+<div id="puccinia-taraxaci" class="section level2">
+<h2><em>Puccinia taraxaci</em></h2>
+</div>
+<div id="puccinia-thaliae" class="section level2">
+<h2><em>Puccinia thaliae</em></h2>
+</div>
+<div id="puccinia-triticina" class="section level2">
+<h2><em>Puccinia triticina</em></h2>
+</div>
+</div>
+<div id="tranzschelia" class="section level1">
+<h1><strong><em>Tranzschelia</em></strong></h1>
+<div id="tranzschelia-discolor" class="section level2">
+<h2><em>Tranzschelia discolor</em></h2>
+</div>
+</div>
+<div id="uromyces" class="section level1">
+<h1><strong><em>Uromyces</em></strong></h1>
+<div id="uromyces-albucae" class="section level2">
+<h2><em>Uromyces albucae</em></h2>
+</div>
+<div id="uromyces-aloes" class="section level2">
+<h2><em>Uromyces aloes</em></h2>
+</div>
+<div id="uromyces-appendiculatus" class="section level2">
+<h2><em>Uromyces appendiculatus</em></h2>
+</div>
+<div id="uromyces-badius" class="section level2">
+<h2><em>Uromyces badius</em></h2>
+</div>
+<div id="uromyces-dianthi" class="section level2">
+<h2><em>Uromyces dianthi</em></h2>
+</div>
+<div id="uromyces-ixiae" class="section level2">
+<h2><em>Uromyces ixiae</em></h2>
+</div>
+<div id="uromyces-kentaniensis" class="section level2">
+<h2><em>Uromyces kentaniensis</em></h2>
+</div>
+<div id="uromyces-rumicis" class="section level2">
+<h2><em>Uromyces rumicis</em></h2>
+</div>
+</div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -307,6 +560,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

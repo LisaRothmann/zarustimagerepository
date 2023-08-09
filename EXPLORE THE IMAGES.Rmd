@@ -1,5 +1,123 @@
 ---
 title: "EXPLORE THE IMAGES"
+output:  
+  html_document:  
+    toc: true  
+    toc_float: true  
 ---
 
 ----
+
+# **_Austropuccinia_**
+
+## _Austropuccinia psidii_
+
+<img src="images/Austropuccinia psidii/Austropuccinia psidii (1).jpg" width="350px">
+
+<img src="images/Austropuccinia psidii/Austropuccinia psidii (2).jpg" width="350px">
+
+<img src="images/Austropuccinia psidii/Austropuccinia psidii (3).jpg" width="350px">
+
+<img src="images/Austropuccinia psidii/Austropuccinia psidii (4).jpg" width="350px">
+
+<img src="images/Austropuccinia psidii/Austropuccinia psidii (5).jpg" width="350px">
+
+<img src="images/Austropuccinia psidii/Austropuccinia psidii (6).jpg" width="350px">
+
+<img src="images/Austropuccinia psidii/Austropuccinia psidii (7).jpg" width="350px">
+
+<img src="images/Austropuccinia psidii/Austropuccinia psidii (8).jpg" width="350px">
+
+<img src="images/Austropuccinia psidii/Austropuccinia psidii (9).jpg" width="350px">
+
+<img src="images/Austropuccinia psidii/Austropuccinia psidii (10).jpg" width="350px">
+
+<img src="images/Austropuccinia psidii/Austropuccinia psidii (11).jpg" width="350px">
+
+<img src="images/Austropuccinia psidii/Austropuccinia psidii (12).jpg" width="350px">
+
+
+
+# **_Coleosporium_**
+## _Coleosporium plumeriae_
+
+<img src="images/Coleosporium plumeriae/Coleosporium plumeriae (1).jpg" width="350px">
+
+<img src="images/Coleosporium plumeriae/Coleosporium plumeriae (2).jpg" width="350px">
+
+<img src="images/Coleosporium plumeriae/Coleosporium plumeriae (3).jpg" width="350px">
+
+<img src="images/Coleosporium plumeriae/Coleosporium plumeriae (4).jpg" width="350px">
+
+
+# **_Endophyllum_**
+## _Endophyllum osteospermi_
+
+# **_Kuehnola_**
+## _Kuehnola uridinis_
+
+# **_Melampsora_**
+## _Melampsora larici-populina_
+
+# **_Phakospora_**
+## _Phakopsora nishidana_
+## _Phakopsora pachyrhizi_ 
+
+# **_Phragmidium_**
+## _Phragmidium fragariae_ 
+## _Phragmidium mucronatum_ 
+
+# **_Puccinia_**
+## _Puccinia antherrini_
+## _Puccinia coronata_ f. sp. _avenae_
+## _Puccinia dehiscens_
+## _Puccinia digitariae_
+## _Puccinia doidgeae_
+## _Puccinia graminis_ f. sp. _avenae_
+## _Puccinia graminis_ f. sp. _tritici_
+## _Puccinia granularis_
+## _Puccinia helianthi_
+## _Puccinia hemerocallidis_
+## _Puccinia hordei_
+## _Puccinia lagenophorae_
+## _Puccinia malvacearum_
+## _Puccinia menthae_
+## _Puccinia pelargonii-zonalis_
+## _Puccinia polycampta_
+## _Puccinia polypogonis_
+## _Puccinia porri_
+## _Puccinia sorghi_
+## _Puccinia stenotaphri_
+## _Puccinia striiformis_ f. sp. _tritici_
+## _Puccinia tanaceti_
+## _Puccinia taraxaci_
+## _Puccinia thaliae_
+## _Puccinia triticina_
+
+# **_Tranzschelia_**
+## _Tranzschelia discolor_
+
+# **_Uromyces_**
+## _Uromyces albucae_
+## _Uromyces aloes_
+## _Uromyces appendiculatus_
+## _Uromyces badius_
+## _Uromyces dianthi_
+## _Uromyces ixiae_
+## _Uromyces kentaniensis_
+## _Uromyces rumicis_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

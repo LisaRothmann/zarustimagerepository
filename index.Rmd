@@ -1,8 +1,6 @@
 ---
 title: "Welcome to the Repository of South African Plant Rust Images"
-output:
-  html_document:
-    fig_width: 1
+
 ---
 
 ----
