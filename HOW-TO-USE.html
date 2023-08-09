@@ -29,9 +29,6 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
-<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -222,69 +219,6 @@ $(document).ready(function () {
 
 
 
-<style type="text/css">
-
-#TOC {
-  margin: 25px 0px 20px 0px;
-}
-@media (max-width: 768px) {
-#TOC {
-  position: relative;
-  width: 100%;
-}
-}
-
-@media print {
-.toc-content {
-  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
-  float: right;
-}
-}
-
-.toc-content {
-  padding-left: 30px;
-  padding-right: 40px;
-}
-
-div.main-container {
-  max-width: 1200px;
-}
-
-div.tocify {
-  width: 20%;
-  max-width: 260px;
-  max-height: 85%;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  div.tocify {
-    width: 25%;
-  }
-}
-
-@media (max-width: 767px) {
-  div.tocify {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-.tocify ul, .tocify li {
-  line-height: 20px;
-}
-
-.tocify-subheader .tocify-item {
-  font-size: 0.90em;
-}
-
-.tocify .list-group-item {
-  border-radius: 0px;
-}
-
-
-</style>
-
-
 
 </head>
 
@@ -292,16 +226,6 @@ div.tocify {
 
 
 <div class="container-fluid main-container">
-
-
-<!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row">
-<div class="col-xs-12 col-sm-4 col-md-3">
-<div id="TOC" class="tocify">
-</div>
-</div>
-
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -319,16 +243,16 @@ div.tocify {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="first_observations.html">First Observations</a>
+  <a href="THE-TEAM.html">THE TEAM</a>
 </li>
 <li>
-  <a href="basic_workflow.html">Basic Workflow</a>
+  <a href="WHAT-ARE-RUSTS.html">WHAT ARE RUSTS?</a>
 </li>
 <li>
-  <a href="getting_sophisticated.html">Getting Sophisticated</a>
+  <a href="HOW-TO-USE.html">HOW TO USE</a>
 </li>
 <li>
-  <a href="your_turn.html">Your Turn</a>
+  <a href="EXPLORE-THE-IMAGES.html">EXPLORE THE GALLERY</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -348,7 +272,7 @@ div.tocify {
 
 
 <hr />
-<p>Interested persons may download the pictures provided the source is acknowledged and the license agreement, <a href="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International (CC BY 4.0</a>, is adhered to when used.</p>
+<p>Interested persons may download the pictures provided the source is acknowledged and the license agreement, <a href="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International (CC BY 4.0)</a>, is adhered to when used.</p>
 <p>“You are free to:</p>
 <ul>
 <li>Share — copy and redistribute the material in any medium or format</li>
@@ -360,17 +284,13 @@ div.tocify {
 <li>No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.”</li>
 </ul>
 <p><strong>Here is an example of the citation required:</strong></p>
-<aside>
-<p><img src="/icons/info-alternate_gray.svg" alt="/icons/info-alternate_gray.svg" width="40px" /> Pretorius, Z.A. Bender, C.M., and Boshoff, W.H.P. 2023. [Insert Image Name Here] from the Repository of South African Plant Rust Images. Available at: DOI 10.17605/OSF.IO/UGJ8Z</p>
-</aside>
 <blockquote>
-<p>************Disclaimer:************ Using available resources, every effort has been made to accurately identify the rust pathogen/s and their host plant/s. Authors, contributors and curators can not be held responsible for the use by other parties of the information in the repository.</p>
+<p>Pretorius, Z.A. Bender, C.M., and Boshoff, W.H.P. 2023. [Insert Image Name Here] from the Repository of South African Plant Rust Images. Available at: DOI 10.17605/OSF.IO/UGJ8Z</p>
 </blockquote>
+<p><em>Disclaimer Using available resources, every effort has been made to accurately identify the rust pathogen/s and their host plant/s. Authors, contributors and curators can not be held responsible for the use by other parties of the information in the repository.</em></p>
 
 
 
-</div>
-</div>
 
 </div>
 
@@ -403,35 +323,6 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
-<script>
-$(document).ready(function ()  {
-
-    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
-    $('.unlisted.unnumbered').addClass('toc-ignore')
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
