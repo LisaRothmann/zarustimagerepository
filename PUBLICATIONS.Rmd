@@ -6,26 +6,101 @@ output:
     toc_float: true  
 ---
 
-
 # **_Phakopsora_**
-### _Phakopsora nishidana_
-- Paper 1 
-- Paper 2
+## _Phakopsora nishidana_
+- Boshoff, W.H.P., Visser, B., Bender, C.M., Wood, A.R., Wilson, K., Hamilton-Atwell, V.L. & Pretorius, Z.A. 2022. Fig rust caused by _Phakopsora nishidana_ in South Africa. _Phytopathologia Mediterranea_ 61(2): 283-298 doi: 10.36253/phyto-13034.
 
-### _Phakopsora pachyrhizi_
-- Paper 1 
-- Paper 2
+
+## _Phakopsora pachyrhizi_
+- Pretorius, Z.A., Kloppers, F.J. & Frederick, R.D. 2001. First report of soybean rust in South Africa. _Plant Disease_ 85: 1288.   
+- Pretorius, Z.A., Visser, B. & Du Preez, P.J. 2007. First report of Asian Soybean Rust (_Phakopsora pachyrhizi_) on kudzu in South Africa. _Plant Disease_ 91: 1364.
 
 # **_Puccinia_**
-
-### _Puccinia porri_
-- Paper 1 
-- Paper 2
-
-### _Puccinia helianthi_
-- Paper 1 
-- Paper 2
+## _Puccinia coronata_ f. sp. _avenae_
+- Van Niekerk, B.D. Pretorius, Z.A. & Boshoff, W.H.P. 2001. Pathogenic variability of _Puccinia coronata_ f. sp. _avenae_ and _P. graminis_ f. sp. _avenae_ on oat in South Africa. _Plant Disease_ 85: 1085-1090.  
+- Boshoff, W.H.P., Pretorius, Z.A., Terefe, T. & Visser B. 2020. Occurrence and pathogenicity of _Puccinia coronata_ var _coronata_ f. sp. _avenae_ on oat in South Africa. _Crop Protection_ 133 article 105144. https://doi.org/10.1016/j.cropro.2020.105144.  
 
 
+## _Puccinia digitariae_
+- Boshoff, WHP, Wood, AR, Visser B, Bender, CM, Joubert, L, Richter, J, Aime, MC, & Pretorius, ZA. 2022. The life cycle of _Puccinia digitariae_ on _Digitaria eriantha_ and _Solanum_ species in South Africa. _Mycologia_ 114(2): 319-336. https://doi.org/10.1080/00275514.2022.2031493.
 
-_Please note this is not an exhaustive list of related publications_
+
+## _Puccinia graminis_ f. sp. _avenae_
+- Van Niekerk, B.D., Pretorius, Z.A. & Boshoff, W.H.P. 2001. Potential yield losses caused by barley leaf rust and oat leaf and stem rust to South African barley and oat cultivars. _SA J Plant & Soil_ 18: 108-113.  
+- Boshoff, W.H.P., Visser, B., Terefe, T and Pretorius, Z.A. 2019. Diversity in _Puccinia graminis_ f. sp. _avenae_ and its impact on oat cultivar response in South Africa. _European Journal of Plant Pathology_ 155:1165-1177.  
+
+
+## _Puccinia graminis_ f. sp. _tritici_
+- Boshoff, W.H.P., Pretorius, Z.A., Van Niekerk, B.D. & Komen, J.S. 2002. First report of virulence in _Puccinia graminis_ f. sp. _tritici_ to wheat stem rust resistance genes _Sr8B_ and _Sr38_ in South Africa. _Plant Disease_ 86: 922.  
+- Pretorius, Z.A., Pakendorf, K.W., Marais, G.F., Prins, R. & Komen, J.S. 2007. Challenges for sustainable control of cereal rust diseases in South Africa. _Aust J Agric Research_ 58: 593-601.  
+- Pretorius, Z.A., Singh, R.P., Wagoire, W.W. & T.S Payne. 2000. Detection of virulence to wheat stem rust resistance gene _Sr31_ in _Puccinia graminis_ f. sp. _tritici_ in Uganda. _Plant Disease_ 84: 203.  
+- Visser, B., Herselman, L. & Pretorius, Z.A. 2009. Genetic comparison of _Ug99_ with selected South African races of _Puccinia graminis_ f. sp. _tritici_. _Molecular Plant Pathology_ 10 (2): 213-222.  
+- Pretorius, Z.A., Bender, C.M., Visser, B. & Terefe, T. 2010. First report of a _Puccinia graminis_ f. sp. _tritici_ race virulent to the _Sr24_ and _Sr31_ wheat stem rust resistance genes in South Africa. _Plant Disease_ 94 (6): 784-785. DOI: 10.1094/PDIS-94-6-0784C.  
+- Visser, B., Herselman, L., Park, R.F., Karaoglu, H., Bender, C.M. & Pretorius, Z.A. 2011. Characterization of two new _Puccinia graminis_ f. sp. _tritici_ races within the _Ug99_ lineage in South Africa. _Euphytica_ 179:119-127. DOI: 10.1007/s10681-010-0269-x.  
+- Mukoyi, F., Soko, T., Mulima, E., Mutari, B., Hodson, D., Herselman, L., Visser, B. & Pretorius, Z.A. 2011. Detection of variants of wheat stem rust race Ug99 (_Puccinia graminis_ f. sp. _tritici_) in Zimbabwe and Mozambique. _Plant Disease_ 95:1188 DOI:10.1094/PDIS-04-11-0300.  
+- Pretorius, Z.A., Jin, Y., Bender, C.M., Herselman, L. & Prins, R. 2012. Seedling resistance to stem rust race _Ug99_ and marker analysis for _Sr2,_ _Sr24_ and _Sr31_ in South African wheat cultivars and lines. _Euphytica_ 186(1):15-23 DOI 10.1007/s10681-011-0476-0. 
+- Pretorius, Z.A., Szabo, L.J., Boshoff, W.H.P., Herselman, L. & Visser, B. 2012. First report of a new TTKSF race of wheat stem rust ( _Puccinia graminis_ f. sp. _tritici_) in South Africa and Zimbabwe. _Plant Disease_ 96: 590. doi:10.1094/PDIS-12-11-1027-PDN.  
+- Pretorius, Z.A., R. Prins, P. K. Malaker, N.C.D. Barma, M.A. Hakim, D. Thapa, U. Bansal, G. L. Cisar, & R. F. Park. 2015. Assessing the vulnerability of wheat germplasm from Bangladesh and Nepal to African stem rust. _Phytoparasitica_ 43:637-645.  
+- Bender, C.M., Prins, R, & Pretorius, Z.A. 2016. Development of a greenhouse screening method for adult plant resistance in wheat to stem rust. _Plant Disease_ 100: 1627-1633.  
+- Soko, T., Bender, C.M., Prins, R. & Pretorius, Z.A. 2018. Yield loss associated with different levels of stem rust resistance in bread wheat. _Plant Disease_ 102: 2531-2538.  
+- Boshoff, W.H.P., Pretorius, Z.A., Terefe, T., Bender, C.M., Herselman, L., Maree, G.J. & Visser, B. 2018. Phenotypic and genotypic description of _Puccinia graminis_ f. sp. _tritici_ race 2SA55 in South Africa. _European J Plant Pathol_. 152(3) 783-789 (https://doi.org/10.1007/s10658-018-1527-3).   
+- Boshoff, W.H.P., Bender, C.M. & Pretorius, Z.A. 2019. Reaction of South African rye, triticale and barley forage cultivars to stem and leaf rust. _SA J Plant & Soil_ 36(2): 77-82 DOI: 10.1080/02571862.2018.1522381.  
+- Visser, B., Meyer, M., Park, R., Gilligan, C., Burgin, L.E., Hort, M.C., Hodson, D. and Pretorius, Z.A. 2019. Microsatellite analysis and urediniospore dispersal simulations support the movement of _Puccinia graminis_ f. sp. _tritici_ from southern Africa to Australia. _Phytopathology_ 109: 133-144 https://doi.org/10.1094/PHYTO-04-18-0110-R).  
+- Wessels, E., Prins, R., Boshoff, W.H.P., Zurn, J., Acevedo, M. & Pretorius, Z.A. 2019. Mapping a Resistance Gene to _Puccinia graminis_ f. sp. _tritici_ in the Bread Wheat Cultivar ‘Matlabas’. _Plant Disease_ 103: 2337 - 2344.  
+- Boshoff, W.H.P., Bender, C.M. & Pretorius, Z.A. 2019. The value of field ratings of differential lines for pathotyping _Puccinia graminis_ f. sp. _tritici_. _Europ J Plant Pathol_ 155:349-352.  
+- Terefe, T., Pretorius, Z.A., Visser, B. & Boshoff, W.H.P. 2019. First report of _Puccinia graminis_ f. sp. _tritici_ race PTKSK, a variant of wheat stem rust race _Ug99_ in South Africa. _Plant Disease_ 103(6) 1421. https://doi.org/10.1094/PDIS-11-18-1911-PDN.  
+- Pretorius, Z.A., Prins, R., Wessels, E., Bender, C.M., Visser, B., Boshoff, W.H.P. 2020. Accomplishments in wheat rust research in South Africa. SA J Science;116(11/12), Art. #7688, 8 pages. https://doi.org/10.17159/ sajs.2020/7688.  
+- Maree, G.J., Castelyn, H.D., Bender, C.M., Boshoff, W.H.P. & Pretorius, Z.A. 2020. Comparing infection and colonisation of _Puccinia graminis_ in barley and wheat. _Australasian Plant Pathology_ 49: 431-445.  
+- Bender, C.M., Boshoff, W.H.P. & Pretorius, Z.A. 2021. Infection and colonization of triticale by _Puccinia graminis_ f. sp. _tritici_. _Can J Plant Pathol_. 43(2): S198-S210. https://doi.org/10.1080/07060661.2021.1931453.  
+- Fetch, T.G., Park, R.F., Pretorius, Z.A. & DePauw, R.M. 2021. Stem rust: its history in Kenya and research to combat a global wheat threat. _Can J Plant Pathol_. 43(2): S275-S297. https://doi.org/10.1080/07060661.2021.1902860.  
+- Chemonges, M., Herselman, L., Pretorius, Z.A.,Maré, A. and Willem H.P. Boshoff. 2022. Characterisation of stem rust resistance in the South African winter wheat cultivar PAN 3161. _Euphytica_. https://doi.org/10.1007/s10681-022-03087-9 (online 7 Sep 22).  
+- Chemonges, M., Herselman, L., Pretorius, Z.A., Rousem M.N., Maré, A. and Willem H.P. Boshoff. 2023. Mapping and validation of all‑stage resistance to stem rust in four South African winter wheat cultivars, _Euphytica_   https://doi.org/10.1007/s10681-022-03143-4 (online 21 Dec 22).
+
+
+## _Puccinia helianthi_
+- Meyer, W., Boshoff, W.H.P., Minnaar-Ontong, A., Young, A.J., Kong, G., Thompson, S., Pretorius, Z.A., Visser, B. 2021. Phenotypic and genotypic variation of _Puccinia helianthi_ in South Africa. _Plant Disease_ 105: 1482-1489. https://doi.org/10.1094/PDIS-09-20-1903-RE.  
+
+
+## _Puccinia hordei_
+- Van Niekerk, B.D. Pretorius, Z.A. & Boshoff, W.H.P. 2001. Occurrence and pathogenicity of _Puccinia hordei_ on barley in South Africa. _Plant Disease_ 85:713-717.  
+- Spelman, Z, Visser B, Terefe TG, Pretorius ZA, Boshoff WHP. 2022. Pathogenicity and microsatellite characterisation of _Puccinia hordei_ in South Africa. _Crop Protection_ 158, August 2022, 106014 https://doi.org/10.1016/j.cropro.2022.106014.  
+
+
+## _Puccinia striiformis_ f. sp. _tritici_
+- Boshoff, W.H.P., Pretorius, Z.A. Van Niekerk, B.D. 2003. Fungicide efficacy and the impact of stripe rust on spring and winter wheat in South Africa. _SA J Plant & Soil_ 20: 11-17.  
+- Boshoff, W.H.P., Pretorius, Z.A. & Van Niekerk, B.D. 2002. Resistance in South African and foreign wheat cultivars to pathotypes 6E16A- and 6E22A- of _Puccinia striiformis_ f. sp. _tritici_. _SA J Plant & Soil_ 19: 27-36.  
+- Boshoff, W.H.P., Pretorius, Z.A. & Van Niekerk, B.D. 2002. Establishment, distribution and pathogenicity of _Puccinia striiformis_ f. sp. _tritici_ in South Africa. _Plant Disease_ 86:485-492.  
+- Pretorius, Z.A., Pienaar, L. & Prins, R. 2007. Greenhouse and field assessment of adult plant resistance to stripe rust of wheat. _Australasian Plant Pathology_ 36: 552-559.  
+- Pretorius, Z.A., Bender, C.M. & Visser, B. 2015. The rusts of wild rye in South Africa. _SA J Bot_ 96:94-98.  
+- Visser, B., Liezel Herselman and Zacharias A. Pretorius. 2016. Microsatellite characterization of South African _Puccinia striiformis_ races. _SA J Plant & Soil_ 33(3): 161-166. http://www.tandfonline.com/doi/full/10.1080/02571862.2015.1125957).  
+- Pretorius, Z.A., C.X. Lan, R. Prins, V. Knight, N.W. McLaren, R.P. Singh C.M. Bender, & F.J. Kloppers. 2017. Application of remote sensing to identify adult plant resistance loci to stripe rust in two bread wheat mapping populations. _Precision Agriculture_ 18: 411-428. DOI: 10.1007/s11119-016-9461-x.  
+- Boshoff, W.H.P., Prins, R., De Klerk, C., Krattinger, S.G., Bender, C.M., Maree, G.J., Rothmann, L. & Pretorius, Z.A. 2019. Point inoculation method for measuring adult plant response of wheat to stripe rust infection. _Plant Disease_ 103(6) 1228-1233.  
+- Maree, G.J., Prins, R., Bender, C.M., Boshoff, W.H.P., Negussie, T.G. & Pretorius, Z.A. 2019. Phenotyping Kariega x Avocet S doubled haploid lines containing individual and combined adult plant stripe rust resistance loci. _Plant Pathology_ 68(4): 659-668.  
+- Maree, G.J., Prins, R., Boyd, L., Castelyn, H.D., Bender, C.M., Boshoff, W.H.P. & Pretorius, Z.A. 2019. Assessing the individual and combined effects of QTL for adult plant stripe rust resistance derived from Cappelle Desprez. _Agronomy_ 9, article 154, 13 pp. doi:10.3390/agronomy9030154.  
+- Boshoff, WHP, Visser, B, Lewis, CM, Adams, TM, Saunders DGO, Terefe, T, Soko, T, Chiuraise, N and Pretorius, ZA. 2020. First report of _Puccinia striiformis_ f. sp. _tritici_, causing stripe rust of wheat, in Zimbabwe. _Plant Disease_ 104(1):290 https://doi.org/10.1094/PDIS-07-19-1395-PDN.  
+
+
+## _Puccinia triticina_
+- Snyman, L., Pretorius, Z.A., Kloppers, F.J. & Marais, G.F. 2004. Detection of adult-plant resistance to _Puccinia triticina_ in a collection of wild Triticum species. _Genetic Resources and Crop Evolution_ 51: 591-597.   
+- Boshoff, W.H.P., Pretorius, Z.A. & Van Niekerk, B.D. 2002. Impact of leaf rust on spring wheat in the winter rainfall region of South South Africa. _SA J Plant & Soil_ 19: 84-88.  
+- Pretorius, Z.A. & Bender, C.M. 2010. First report of virulence for the wheat leaf rust ( _Puccinia triticina_) resistance gene Lr32 in South Africa. _Plant Disease_ 94(3) 381. DOI: 10.1094/PDIS-94-3-0381A.  
+- Visser, B., Herselman, L., Bender, C.M. & Pretorius, Z.A. 2012. Microsatellite analysis of selected _Puccinia triticina_ races in South Africa. _Australasian Plant Pathology_ 41:165-171. Doi:10.1007/s13313-011-0104-4.  
+- Pretorius, Z.A., B. Visser, T. Terefe, L. Herselman, R. Prins, T. Soko, J. Siwale, B. Mutari, T.I. Selinga, D.P. Hodson. 2015. Races of _Puccinia triticina_ detected on wheat in Zimbabwe, Zambia and Malawi and regional germplasm responses. _Australasian Plant Pathology_ 44:217-224.  
+- Boshoff, W.H.P., Labuschagne, R., Terefe, T., Pretorius, Z.A. & Visser, B. 2018. New _Puccinia triticina_ races on wheat in South Africa. _Australasian Plant Pathology_ 47:325-334.  
+- Yekelo, N., L. Rothmann, C.M. Bender, Z.A. Pretorius and W.H.P. Boshoff. 2019. Response of an international triticale collection to _Puccinia triticina_ and _Puccinia recondita_ and assessment of temperature sensitivity in leaf rust isolates, _Cereal Research Communications_ 47(3): 496-505. https://doi.org/10.1556/0806.47.2019.23.  
+- Labuschagne, R. Venter, E., Boshoff, W.H.P., Pretorius, Z.A., Terefe, T. & Visser B. 2021. Historical development of the South African _Puccinia triticina_ population. _Plant Disease_ 105: 2445-2452. https://apsjournals.apsnet.org/doi/10.1094/PDIS-10-20-2301-RE.  
+
+
+## _Puccinia sorghi_
+- Dunhin, B., Pretorius, Z.A., Kloppers, F.J., Bender, C.M. & Flett, B. 2004. Descriptions of spore stages of _Puccinia sorghi_ in South Africa. SA J Plant & Soil 21: 48-52.  
+
+# **_Uromyces_**
+## _Uromyces appendiculatus_
+- Liebenberg, M.M. & Pretorius, Z.A. 2004. Inheritance of resistance to _Uromyces appendiculatus_ in the South African dry bean cultivar Kranskop. _SA J Plant & Soil_ 21: 245-250.  
+- Liebenberg, M.M., Liebenberg, A.J. & Pretorius, Z.A. 2005. Breeding for rust resistance increases dry bean productivity in the South Africa. _SA J Plant & Soil_ 22: 129-139.  
+- Liebenberg, M.M., Mienie, C.M.S. & Pretorius, Z.A. 2006. The occurrence of rust resistance gene _Ur-13_ in common bean cultivars and lines. _Euphytica_ 150: 365-386.  
+- Liebenberg, M.M. & Pretorius, Z.A. 2011. Pathogenic diversity in and sources of resistance to _Uromyces appendiculatus_ in southern Africa. _J Phytopathology_ 159(4): 287-297 DOI: 10.1111/j.1439-0434.2010.01763.x.  
+
+
+
+_Please note this is not an exhaustive list of related publications, and we have limited this to articles where UFS staff and students played the senior roles; older articles are not listed_

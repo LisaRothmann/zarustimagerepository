@@ -10,13 +10,13 @@ output:
 # Contributors
 
 ## Professor Zakkie Pretorius  
-insert short bio here
+Retired plant pathologist and former head of the Department of Plant Sciences at UFS. Extensive experience of rust diseases of field crops, in particular the small grain cereals.
 
 <img src="profilephotos/zp.jpg" width="350px"> 
 
 
 ## Professor Willem Boshoff 
-insert short bio here
+Associated Professor in plant pathology in the Department of Plant Sciences at the UFS. His main research focus is rust diseases of cereal crops which include pathogenic variation and control strategies. 
 
 <img src="profilephotos/willem.jpeg" width="350px">
 
@@ -30,17 +30,12 @@ insert short bio here
 # Curators 
 
 ## Dr Lisa Rothmann
-insert short bio here
+Lecturer and researcher in the plant pathology division, the Department of Plant Sciences, with a passion for sharing our wonderful science with all. 
 
 <img src="profilephotos/lisa.jpg" width="350px"> 
 
 
 # Acknowledgements
-
-Lorem ipsum dolor sit amet. Ea eius autem sit molestias natus 33 accusamus autem nam autem impedit! Aut earum eligendi et dolorem ipsam non quod ipsum.
-
-Non quidem consequatur in repellendus galisum ut sunt distinctio et pariatur repudiandae. Ex galisum dolor hic impedit provident ad iusto sint in recusandae eaque est sunt cupiditate in perspiciatis odit est fuga porro.
-
-Id consequatur doloremque et beatae libero ea perferendis reiciendis a porro magnam est provident quam est deleniti possimus. Qui numquam mollitia qui atque suscipit non doloribus minima et odit illum ut expedita magni aut sequi dicta! Aut rerum quis qui fugiat deleniti sed dicta sunt At esse voluptatem!
+Contributions from the many institutions, co-workers and students who contributed to rust research at UFS are greatly appreciated.
 
 ---
