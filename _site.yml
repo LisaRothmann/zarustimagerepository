@@ -8,6 +8,8 @@ navbar:
       href: HOW-TO-USE.html
     - text: "EXPLORE THE GALLERY"
       href: EXPLORE-THE-IMAGES.html
+    - text: "RELATED PUBLICATIONS"
+      href: PUBLICATIONS.html   
     - text: "THE TEAM"
       href: THE-TEAM.html
 output_dir: "."

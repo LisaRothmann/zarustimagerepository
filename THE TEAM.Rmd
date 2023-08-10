@@ -10,14 +10,19 @@ output:
 # Contributors
 
 ## Professor Zakkie Pretorius  
+insert short bio here
 
 <img src="profilephotos/zp.jpg" width="350px"> 
 
+
 ## Professor Willem Boshoff 
+insert short bio here
 
 <img src="profilephotos/willem.jpeg" width="350px">
 
+
 ## Dr Cornel Bender 
+insert short bio here
 
 <img src="profilephotos/cornel.jpg" width="350px">
 
@@ -25,7 +30,17 @@ output:
 # Curators 
 
 ## Dr Lisa Rothmann
+insert short bio here
 
 <img src="profilephotos/lisa.jpg" width="350px"> 
+
+
+# Acknowledgements
+
+Lorem ipsum dolor sit amet. Ea eius autem sit molestias natus 33 accusamus autem nam autem impedit! Aut earum eligendi et dolorem ipsam non quod ipsum.
+
+Non quidem consequatur in repellendus galisum ut sunt distinctio et pariatur repudiandae. Ex galisum dolor hic impedit provident ad iusto sint in recusandae eaque est sunt cupiditate in perspiciatis odit est fuga porro.
+
+Id consequatur doloremque et beatae libero ea perferendis reiciendis a porro magnam est provident quam est deleniti possimus. Qui numquam mollitia qui atque suscipit non doloribus minima et odit illum ut expedita magni aut sequi dicta! Aut rerum quis qui fugiat deleniti sed dicta sunt At esse voluptatem!
 
 ---

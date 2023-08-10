@@ -1,0 +1,31 @@
+---
+title: "PUBLICATIONS"
+output:  
+  html_document:  
+    toc: true  
+    toc_float: true  
+---
+
+
+# **_Phakopsora_**
+### _Phakopsora nishidana_
+- Paper 1 
+- Paper 2
+
+### _Phakopsora pachyrhizi_
+- Paper 1 
+- Paper 2
+
+# **_Puccinia_**
+
+### _Puccinia porri_
+- Paper 1 
+- Paper 2
+
+### _Puccinia helianthi_
+- Paper 1 
+- Paper 2
+
+
+
+_Please note this is not an exhaustive list of related publications_

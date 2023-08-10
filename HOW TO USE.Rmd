@@ -18,7 +18,7 @@ Under the following terms:
 
 **Here is an example of the citation required:**
 
->Pretorius, Z.A. Bender, C.M., and Boshoff, W.H.P. 2023. [Insert Image Name Here] from the Repository of South African Plant Rust Images. Available at: DOI 10.17605/OSF.IO/UGJ8Z
+>Pretorius, Z.A. Bender, C.M., and Boshoff, W.H.P. 2023. The Repository of South African Plant Rust Images. Available at: DOI 10.17605/OSF.IO/UGJ8Z
 
 
 _Disclaimer Using available resources, every effort has been made to accurately identify the rust pathogen/s and their host plant/s. Authors, contributors and curators can not be held responsible for the use by other parties of the information in the repository._

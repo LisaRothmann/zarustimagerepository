@@ -97,7 +97,7 @@ output:
 
 <img src="images/Melampsora larici-populina/Melampsora larici-populina (10).jpg" width="350px">
 
-# **_Phakospora_**
+# **_Phakopsora_**
 ## _Phakopsora nishidana_
  <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (1).jpg" width="350px">
  
@@ -135,7 +135,7 @@ output:
  
  <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus pumila.jpg" width="350px">
 
-## _Phakopsora pachyrhizi_ 
+## _Phakospora pachyrhizi_ 
 
  <img src="images/Phakopsora pachyrhizi/Phakopsora pachyrhizi on kudzu (1).JPG" width="350px">
  
