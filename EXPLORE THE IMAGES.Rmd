@@ -54,7 +54,7 @@ output:
 
 ## _Endophyllum osteospermi_
 
-<img src="images/Endophyllum osteospermi/Endophyllum osteospermi (1).jpg"" width="350px">
+<img src="images/Endophyllum osteospermi/Endophyllum osteospermi (1).jpg" width="350px">
 
 <img src="images/Endophyllum osteospermi/Endophyllum osteospermi (2).jpg" width="350px">
 
@@ -105,11 +105,11 @@ output:
 ## _Phakopsora nishidana_
  <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (1).jpg" width="350px">
  
- <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (1).tif" width="350px"> 
+ <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (1).tif" width="350px">
  
  <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (2).jpg" width="350px">
  
- <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (2).tif" width="350px">
+ <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (2).TIF" width="350px">
  
  <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (3).jpg" width="350px">
  
@@ -133,9 +133,9 @@ output:
  
  <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (12).jpg" width="350px">
  
- <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (13).jpg" width="350px">
+ <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (13).JPG" width="350px">
  
- <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (14).jpg" width="350px">
+ <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (14).JPG" width="350px">
  
  <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus pumila.jpg" width="350px">
 
@@ -219,13 +219,16 @@ output:
 
 ## _Puccinia antherrini_
 
-<img src="images/Puccinia antherrini/Puccinia antherrini on snapdragon (1).jpg" width="350px">  
+<img src="images/Puccinia antherrini/Puccinia antherrini on snapdragon (1).jpg" width="350px">
 
-<img src="images/Puccinia antherrini/uccinia antherrini on snapdragon (2).jpg" width="350px">  
 
-<img src="images/Puccinia antherrini/Puccinia antherrini on snapdragon (3).jpg" width="350px">  
+<img src="images/Puccinia antherrini/Puccinia antherrini on snapdragon (2).jpg" width="350px">
 
-<img src="images/Puccinia antherrini/Puccinia antherrini on snapdragon (4).jpg" width="350px">  
+
+<img src="images/Puccinia antherrini/Puccinia antherrini on snapdragon (3).jpg" width="350px">
+
+
+<img src="images/Puccinia antherrini/Puccinia antherrini on snapdragon (4).jpg" width="350px">
 
 ## _Puccinia coronata_ f. sp. _avenae_
 
@@ -370,123 +373,183 @@ output:
 
 ## _Puccinia graminis_ f. sp. _tritici_
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (1).JPG" width="350px">   
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (1).JPG" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (2).JPG" width="350px">   
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (3).JPG" width="350px">   
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (2).JPG" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (4).JPG" width="350px">   
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (5).JPG" width="350px">   
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (3).JPG" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (6).JPG" width="350px">  
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (7).JPG" width="350px">   
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (4).JPG" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (8).JPG" width="350px">   
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (9).JPG" width="350px">  
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (5).JPG" width="350px">
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (6).JPG" width="350px">
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (7).JPG" width="350px">
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (8).JPG" width="350px">
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (9).JPG" width="350px">
+
 
 <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (10).JPG" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (11).JPG" width="350px">   
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley.JPG" width="350px">   
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (11).JPG" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on triticale (1).jpg" width="350px">   
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on triticale (2).jpg" width="350px">   
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley.JPG" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on triticale (3).jpg" width="350px">   
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on triticale (4).jpg" width="350px">   
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on triticale (1).jpg" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on triticale (5).jpg" width="350px">   
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on triticale (6).jpg" width="350px">  
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on triticale (2).jpg" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (1).jpg" width="350px">   
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (2).jpg" width="350px">   
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on triticale (3).jpg" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (3).jpg" width="350px">   
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (4).JPG" width="350px">   
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on triticale (4).jpg" width="350px">
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on triticale (5).jpg" width="350px">
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on triticale (6).jpg" width="350px">
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (1).jpg" width="350px">
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (2).jpg" width="350px">
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (3).jpg" width="350px">
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (4).JPG" width="350px">
+
 
 <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (5).jpg" width="350px">
 
+
 <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (6).JPG" width="350px">  
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (7).jpg" width="350px">   
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (8).jpg" width="350px">   
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (7).jpg" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (9).JPG" width="350px">   
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (10).JPG" width="350px">   
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (8).jpg" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (11).JPG" width="350px">   
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (12).JPG" width="350px">   
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (9).JPG" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (13).jpg" width="350px">   
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (14).jpg" width="350px">   
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (10).JPG" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (17).JPG" width="350px">   
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (18).JPG" width="350px">   
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (11).JPG" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (19).JPG" width="350px">   
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (20).JPG" width="350px">   
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (12).JPG" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (21).jpg" width="350px">   
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (22).jpg" width="350px">   
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (13).jpg" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (23).jpg" width="350px">   
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (24).jpg" width="350px">   
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (14).jpg" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (25).jpg" width="350px">   
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (26).jpg" width="350px">   
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (17).JPG" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (27).jpg" width="350px">   
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (28).JPG" width="350px">   
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (18).JPG" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (29).JPG" width="350px">   
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (30).JPG" width="350px">   
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (19).JPG" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (31).JPG" width="350px">   
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (32).JPG" width="350px">   
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (20).JPG" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (33).JPG" width="350px">   
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (34).JPG" width="350px">   
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (21).jpg" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (35).JPG" width="350px">   
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (36).JPG" width="350px">   
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (22).jpg" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (37).JPG" width="350px">   
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (38).JPG" width="350px">   
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (23).jpg" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (39).JPG" width="350px">   
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (40).JPG" width="350px">   
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (24).jpg" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (41).JPG" width="350px">   
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (42).jpg" width="350px">   
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (25).jpg" width="350px">
 
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (43).jpg" width="350px">   
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (26).jpg" width="350px">
+
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (27).jpg" width="350px">
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (28).JPG" width="350px">
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (29).JPG" width="350px">
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (30).JPG" width="350px">
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (31).JPG" width="350px">
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (32).JPG" width="350px">
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (33).JPG" width="350px">
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (34).JPG" width="350px">
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (35).JPG" width="350px">
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (36).JPG" width="350px">
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (37).JPG" width="350px">
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (38).JPG" width="350px">
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (39).JPG" width="350px">
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (40).JPG" width="350px">
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (41).JPG" width="350px">
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (42).jpg" width="350px">
+
+
+<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (43).jpg" width="350px">
+
 
 <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (45).JPG" width="350px">   
 
@@ -568,31 +631,31 @@ output:
 
 <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (8).jpg" width="350px">  
 
-<img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (9).tif" width="350px">  
+<img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (9).tif" width="350px">
 
-<img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (10).tif" width="350px">   
+<img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (10).tif" width="350px">
 
 <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (11).jpg" width="350px">  
 
-<img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (12).tif" width="350px">   
+<img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (12).tif" width="350px">
 
-<img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (13).tif" width="350px">   
+<img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (13).tif" width="350px">
 
-<img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (14).tif" width="350px">   
+<img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (14).tif" width="350px">
 
-<img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (15).tif" width="350px">   
+<img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (15).tif" width="350px">
 
-<img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (16).tif" width="350px">   
+<img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (16).tif" width="350px">
  
 ## _Puccinia hemerocallidis_
 
-<img src="images/Puccinia hemerocallides/Puccinia hemerocallides on daylily (1).jpg" width="350px">   
+<img src="images/Puccinia hemerocallides/Puccinia hemerocallides on daylily (1).jpg" width="350px"> 
 
-<img src="images/Puccinia hemerocallides/Puccinia hemerocallides on daylily (2).jpg" width="350px">   
+<img src="images/Puccinia hemerocallides/Puccinia hemerocallides on daylily (2).jpg" width="350px">
 
-<img src="images/Puccinia hemerocallides/Puccinia hemerocallides on daylily (3).jpg" width="350px">   
+<img src="images/Puccinia hemerocallides/Puccinia hemerocallides on daylily (3).jpg" width="350px">
 
-<img src="images/Puccinia hemerocallides/Puccinia hemerocallides on daylily (4).jpg" width="350px">   
+<img src="images/Puccinia hemerocallides/Puccinia hemerocallides on daylily (4).jpg" width="350px">
 
 ## _Puccinia hordei_
 
