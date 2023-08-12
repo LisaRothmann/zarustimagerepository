@@ -105,15 +105,15 @@ output:
 ## _Phakopsora nishidana_
  <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (1).jpg" width="350px">
  
- <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (1).tif" width="350px">
+ <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (1a).jpg" width="350px">
  
  <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (2).jpg" width="350px">
  
- <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (2).TIF" width="350px">
+ <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (2a).jpg" width="350px">
  
  <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (3).jpg" width="350px">
  
- <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (3).tif" width="350px">
+ <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (3a).jpg" width="350px">
  
  <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (4).jpg" width="350px">
  

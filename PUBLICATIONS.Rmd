@@ -54,7 +54,10 @@ output:
 - Bender, C.M., Boshoff, W.H.P. & Pretorius, Z.A. 2021. Infection and colonization of triticale by _Puccinia graminis_ f. sp. _tritici_. _Can J Plant Pathol_. 43(2): S198-S210. https://doi.org/10.1080/07060661.2021.1931453.  
 - Fetch, T.G., Park, R.F., Pretorius, Z.A. & DePauw, R.M. 2021. Stem rust: its history in Kenya and research to combat a global wheat threat. _Can J Plant Pathol_. 43(2): S275-S297. https://doi.org/10.1080/07060661.2021.1902860.  
 - Chemonges, M., Herselman, L., Pretorius, Z.A.,Maré, A. and Willem H.P. Boshoff. 2022. Characterisation of stem rust resistance in the South African winter wheat cultivar PAN 3161. _Euphytica_. https://doi.org/10.1007/s10681-022-03087-9 (online 7 Sep 22).  
-- Chemonges, M., Herselman, L., Pretorius, Z.A., Rousem M.N., Maré, A. and Willem H.P. Boshoff. 2023. Mapping and validation of all‑stage resistance to stem rust in four South African winter wheat cultivars, _Euphytica_   https://doi.org/10.1007/s10681-022-03143-4 (online 21 Dec 22).
+- Chemonges, M., Herselman, L., Pretorius, Z.A., Rousem M.N., Maré, A. and Willem H.P. Boshoff. 2023. Mapping and validation of all‑stage resistance to stem rust in four South African winter wheat cultivars, _Euphytica_   https://doi.org/10.1007/s10681-022-03143-4 (online 21 Dec 22).  
+- Pretorius Z. A., Ayliffe M., Bowden R. L., Boyd L. A., DePauw R. M., Jin Y., Knox R. E., McIntosh R. A., Park R. F., Prins R., and Lagudah E. S. 2017. Advances in control of wheat rusts. Pages 295-343 in: P. Langridge (ed.). Achieving sustainable cultivation of wheat Volume 1: Breeding, quality traits, pests and diseases, Burleigh Dodds Science Publishing , Cambridge, UK (ISBN: 978 1 78676 016 6; www.bdspublishing.com).
+- Pretorius, Z.A. and Boshoff, W.H.P. 2022. Cereal rust pathology. Pages 85-89 in: History of Plant Pathology in South Africa. Eds. TA Couthinho & M.J. Wingfield. Briza Publications, Pretoria.
+
 
 
 ## _Puccinia helianthi_
@@ -100,7 +103,7 @@ output:
 - Liebenberg, M.M., Liebenberg, A.J. & Pretorius, Z.A. 2005. Breeding for rust resistance increases dry bean productivity in the South Africa. _SA J Plant & Soil_ 22: 129-139.  
 - Liebenberg, M.M., Mienie, C.M.S. & Pretorius, Z.A. 2006. The occurrence of rust resistance gene _Ur-13_ in common bean cultivars and lines. _Euphytica_ 150: 365-386.  
 - Liebenberg, M.M. & Pretorius, Z.A. 2011. Pathogenic diversity in and sources of resistance to _Uromyces appendiculatus_ in southern Africa. _J Phytopathology_ 159(4): 287-297 DOI: 10.1111/j.1439-0434.2010.01763.x.  
-
+- Liebenberg, M.M. & Pretorius, Z.A. 2010. Common bean rust: pathology and control. Pages 1-99 in: Horticultural Reviews Vol 37, ed. J. Janik, Wiley-Blackwell.
 
 
 _Please note this is not an exhaustive list of related publications, and we have limited this to articles where UFS staff and students played the senior roles; older articles are not listed_
