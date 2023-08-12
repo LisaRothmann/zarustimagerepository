@@ -27,6 +27,6 @@ This website includes the following content:
 - `RELATED PUBLICATIONS`: A list of the peer-reviewed publications associated with rust species.  
 - `THE TEAM`: You can get to know the team who contributed there images and sequencing of these species, as well as the curator of the website.  
 
-
 Plant pathologists are excellent photographers but opportunities to share their images are often limited to articles, conferences and more recently social media. In most cases a wealth of exceptional photographs of plant diseases, and the organisms that cause them, remain buried on computers. Here, we share some of our rust pictures and hope that this resource will add to disease records and descriptions, visual diagnostics, teaching aids, etc. We hope this website inspires you take good pictures and capture your passion for plant pathology.
+
 ----

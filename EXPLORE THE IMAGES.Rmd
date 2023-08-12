@@ -135,7 +135,7 @@ output:
  
  <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus pumila.jpg" width="350px">
 
-## _Phakospora pachyrhizi_ 
+## _Phakopsora pachyrhizi_ 
 
  <img src="images/Phakopsora pachyrhizi/Phakopsora pachyrhizi on kudzu (1).JPG" width="350px">
  
@@ -183,13 +183,75 @@ output:
 
 # **_Phragmidium_**
 ## _Phragmidium fragariae_ 
+ <img src="images/Phragmidium fragariae/Phragmidium fragariae on wild strawberry (1).jpg" width="350px">
+ <img src="images/Phragmidium fragariae/Phragmidium fragariae on wild strawberry (2).jpg" width="350px">
+ <img src="images/Phragmidium fragariae/Phragmidium fragariae on wild strawberry (3).jpg" width="350px">
+ <img src="images/Phragmidium fragariae/Phragmidium fragariae on wild strawberry (4).jpg" width="350px">
+ <img src="images/Phragmidium fragariae/Phragmidium fragariae on wild strawberry (5).jpg" width="350px">
+ 
 ## _Phragmidium mucronatum_ 
+<img src="images/Phragmidium mucronatum/Phragmidium mucronatum on rose (1).jpg" width="350px">  
+<img src="images/Phragmidium mucronatum/Phragmidium mucronatum on rose (2).jpg" width="350px">  
+<img src="images/Phragmidium mucronatum/Phragmidium mucronatum on rose (3).jpg" width="350px">  
+<img src="images/Phragmidium mucronatum/Phragmidium mucronatum on rose (4).jpg" width="350px">  
+<img src="images/Phragmidium mucronatum/Phragmidium mucronatum on rose (5).jpg" width="350px">  
+<img src="images/Phragmidium mucronatum/Phragmidium mucronatum on rose (6).jpg" width="350px">  
+<img src="images/Phragmidium mucronatum/Phragmidium mucronatum on rose (7).jpg" width="350px">  
 
 # **_Puccinia_**
 ## _Puccinia antherrini_
+<img src="images/Puccinia antherrini/Puccinia antherrini on snapdragon (1).jpg" width="350px">  
+<img src="images/Puccinia antherrini/uccinia antherrini on snapdragon (2).jpg" width="350px">  
+<img src="images/Puccinia antherrini/Puccinia antherrini on snapdragon (3).jpg" width="350px">  
+<img src="images/Puccinia antherrini/Puccinia antherrini on snapdragon (4).jpg" width="350px">  
+
 ## _Puccinia coronata_ f. sp. _avenae_
+ <img src="images/Puccinia coronata f. sp. avenae/Puccinia coronata f. sp. avenae (1).JPG" width="350px">  
+ <img src="images/Puccinia coronata f. sp. avenae/Puccinia coronata f. sp. avenae (2).jpg" width="350px">  
+ <img src="images/Puccinia coronata f. sp. avenae/Puccinia coronata f. sp. avenae (3).jpg" width="350px">  
+ <img src="images/Puccinia coronata f. sp. avenae/Puccinia coronata f. sp. avenae (4).jpg" width="350px">  
+ <img src="images/Puccinia coronata f. sp. avenae/Puccinia coronata f. sp. avenae (5).jpg" width="350px">  
+ <img src="images/Puccinia coronata f. sp. avenae/Puccinia coronata f. sp. avenae (6).jpg" width="350px">  
+ <img src="images/Puccinia coronata f. sp. avenae/Puccinia coronata f. sp. avenae (7).jpg" width="350px">  
+ <img src="images/Puccinia coronata f. sp. avenae/Puccinia coronata f. sp. avenae (8)(1).jpg" width="350px">  
+ <img src="images/Puccinia coronata f. sp. avenae/Puccinia coronata f. sp. avenae (8).JPG" width="350px">  
+ <img src="images/Puccinia coronata f. sp. avenae/Puccinia coronata f. sp. avenae (9).JPG" width="350px">  
+ <img src="images/Puccinia coronata f. sp. avenae/Puccinia coronata f. sp. avenae (10).JPG" width="350px">  
+ <img src="images/Puccinia coronata f. sp. avenae/Puccinia coronata f. sp. avenae (11).JPG" width="350px">  
+ <img src="images/Puccinia coronata f. sp. avenae/Puccinia coronata f. sp. avenae (12).JPG" width="350px">  
+ <img src="images/Puccinia coronata f. sp. avenae/Puccinia coronata f. sp. avenae (13).JPG" width="350px">  
+ <img src="images/Puccinia coronata f. sp. avenae/Puccinia coronata f. sp. avenae (14).JPG" width="350px">  
+ <img src="images/Puccinia coronata f. sp. avenae/Puccinia coronata f. sp. avenae (15).JPG" width="350px">  
+ <img src="images/Puccinia coronata f. sp. avenae/Puccinia coronata f. sp. avenae (16).JPG" width="350px">  
+ <img src="images/Puccinia coronata f. sp. avenae/Puccinia coronata f. sp. avenae on oat (15).JPG" width="350px">  
+ <img src="images/Puccinia coronata f. sp. avenae/Puccinia coronata f. sp. avenae on oat (19).JPG" width="350px">  
+ <img src="images/Puccinia coronata f. sp. avenae/Puccinia coronata f. sp. avenae on oat seedlings (17).JPG" width="350px">  
+ <img src="images/Puccinia coronata f. sp. avenae/Puccinia coronata f. sp. avenae on oat seedlings (20).JPG" width="350px">  
+
 ## _Puccinia dehiscens_
+ <img src="images/Puccinia dehiscens/Puccinia dehiscens on Aristea (1).jpg" width="350px">  
+ <img src="images/Puccinia dehiscens/Puccinia dehiscens on Aristea (2).JPG" width="350px">  
+ <img src="images/Puccinia dehiscens/Puccinia dehiscens on Aristea (3).jpg" width="350px">  
+ <img src="images/Puccinia dehiscens/Puccinia dehiscens on Aristea (4).jpg" width="350px">  
+ <img src="images/Puccinia dehiscens/Puccinia dehiscens on Aristea (5).jpg" width="350px">  
+
+
 ## _Puccinia digitariae_
+ <img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha (1).JPG" width="350px">
+ <img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha (1).tif" width="350px">
+ <img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha (1).tiff" width="350px">
+ <img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha (2).JPG" width="350px">
+ <img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha.tif" width="350px">
+ <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (1).jpg" width="350px">
+ <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (1).tif" width="350px">
+ <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (2).jpg" width="350px">
+ <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (3).jpg" width="350px">
+ <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (4).JPG" width="350px">
+ <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (5).jpg" width="350px">
+ <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (6).jpg" width="350px">
+ <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum.jpg" width="350px">
+ <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum.png" width="350px">
+
 ## _Puccinia doidgeae_
 ## _Puccinia graminis_ f. sp. _avenae_
 ## _Puccinia graminis_ f. sp. _tritici_
