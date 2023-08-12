@@ -36,6 +36,6 @@ Lecturer and researcher in the plant pathology division, the Department of Plant
 
 
 # Acknowledgements
-Contributions from the many institutions, co-workers and students who contributed to rust research at UFS are greatly appreciated.
+Contributions from the many funders, institutions, co-workers and students who contributed to rust research at UFS are greatly appreciated.
 
 ---

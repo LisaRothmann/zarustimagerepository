@@ -1,6 +1,6 @@
 name: "South African Rust Image Repository"
 navbar:
-  title: "HOME"
+  title: "RUST IMAGE REPO"
   left:
     - text: "WHAT ARE RUSTS?"
       href: WHAT-ARE-RUSTS.html

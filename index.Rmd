@@ -1,6 +1,8 @@
 ---
-title: "Welcome to the Repository of South African Plant Rust Images"
+title: "WELCOME TO THE REPOSITORY OF SOUTH AFRICAN PLANT RUST IMAGES"
 ---
+
+<img src="profilephotos/banner.jpg"> 
 
 ----
 
