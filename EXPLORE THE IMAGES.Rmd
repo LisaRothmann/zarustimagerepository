@@ -290,33 +290,33 @@ output:
 
 ## _Puccinia digitariae_
 
- <img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha (1).JPG" width="350px">
+<img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha (1).JPG" width="350px">
+
+<img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha (1a).tif" width="350px">
+
+<img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha (1).tiff" width="350px">
+
+<img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha (2).JPG" width="350px">
  
- <img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha (1).tif" width="350px">
+<img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha.tif" width="350px">
  
- <img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha (1).tiff" width="350px">
+<img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (1).jpg" width="350px">
  
- <img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha (2).JPG" width="350px">
- 
- <img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha.tif" width="350px">
- 
- <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (1).jpg" width="350px">
- 
- <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (1).tif" width="350px">
- 
- <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (2).jpg" width="350px">
- 
- <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (3).jpg" width="350px">
- 
- <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (4).JPG" width="350px">
- 
- <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (5).jpg" width="350px">
- 
- <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (6).jpg" width="350px">
- 
- <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum.jpg" width="350px">
- 
- <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum.png" width="350px">
+<img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (1).tif" width="350px">
+
+<img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (2).jpg" width="350px">
+
+<img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (3).jpg" width="350px">
+
+<img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (4).JPG" width="350px">
+
+<img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (5).jpg" width="350px">
+
+<img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (6).jpg" width="350px">
+
+<img src="images/Puccinia digitariae/Puccinia digitariae on Solanum.jpg" width="350px">
+
+<img src="images/Puccinia digitariae/Puccinia digitariae on Solanum.png" width="350px">
 
 ## _Puccinia doidgeae_
 
@@ -429,9 +429,6 @@ output:
 
 
 <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (1).jpg" width="350px">
-
-
-<img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (2).jpg" width="350px">
 
 
 <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (3).jpg" width="350px">
@@ -728,7 +725,8 @@ output:
 
 <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (16).jpg" width="350px">   
 
-<img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (17).jpg" width="350px">
+<img src="images/Puccinia lagenophorae/lagenophorae on Asteraceae (17).jpg" width="350px">
+
 
 ## _Puccinia malvacearum_
 
@@ -754,19 +752,19 @@ output:
 
 ## _Puccinia menthae_
 
-<img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (1).jpg" width="350px">   
+<img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (1).jpg" width="350px">
 
-<img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (2).jpg" width="350px">   
+<img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (2).jpg" width="350px">
 
-<img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (3).jpg" width="350px">  
+<img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (3).jpg" width="350px">
 
-<img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (4).jpg" width="350px">   
+<img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (4).jpg" width="350px">
 
-<img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (5).JPG" width="350px">   
+<img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (5).JPG" width="350px">
 
-<img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (6).jpg" width="350px">   
+<img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (6).jpg" width="350px">
 
-<img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (7).jpg" width="350px">   
+<img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (7).jpg" width="350px">
  
 ## _Puccinia pelargonii-zonalis_
 
@@ -926,7 +924,10 @@ output:
 
 <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici wheat head infection (26).JPG" width="350px"> 
 
-<img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici wheat head infection (27).JPG" width="350px">  
+<img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici wheat head infection (27).JPG" width="350px">
+
+<img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (28).jpg" width="350px">
+
 
 ## _Puccinia tanaceti_
 
@@ -1182,9 +1183,33 @@ output:
 
 <img src="images/Uromyces rumicis/Uromyces rumicis on Rumex crispus (5).jpg" width="350px">  
 
-# Under Investigation 
+# **Under Investigation**
 
-<img src="images/Under Investigation/_" width="350px">  
+## _Bromus diandrus_ 
 
+<img src="images/Under Investigation/Bromus diandrus/Leaf rust on Bromus diandrus (1).jpg" width="350px">
 
+<img src="images/Under Investigation/Bromus diandrus/Leaf rust on Bromus diandrus (2).jpg" width="350px">
+
+<img src="images/Under Investigation/Bromus diandrus/Leaf rust on Bromus diandrus (3).jpg" width="350px">
+
+<img src="images/Under Investigation/Bromus diandrus/Leaf rust on Bromus diandrus (4).jpg" width="350px">
+
+<img src="images/Under Investigation/Bromus diandrus/Leaf rust on Bromus diandrus (5).jpg" width="350px">
+
+<img src="images/Under Investigation/Bromus diandrus/Leaf rust on Bromus diandrus (6).jpg" width="350px">
+
+## _Thinopyrum distichum_
+
+<img src="images/Under Investigation/Thinopyrum distichum/Leaf rust on Thinopyrum distichum (1).jpg" width="350px">
+
+<img src="images/Under Investigation/Thinopyrum distichum/Leaf rust on Thinopyrum distichum (3).jpg" width="350px">
+
+<img src="images/Under Investigation/Thinopyrum distichum/Leaf rust on Thinopyrum distichum (4).jpg" width="350px">
+
+<img src="images/Under Investigation/Thinopyrum distichum/Leaf rust on Thinopyrum distichum (6).jpg" width="350px">
+
+<img src="images/Under Investigation/Thinopyrum distichum/Leaf rust on Thinopyrum distichum (7).jpg" width="350px">
+
+<img src="images/Under Investigation/Thinopyrum distichum/Thinopyrum distichum.jpg" width="350px">
 
