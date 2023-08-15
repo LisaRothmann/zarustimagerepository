@@ -352,26 +352,6 @@ output:
 
 <img src="images/Puccinia graminis f. sp. avenae/Puccinia graminis f. sp. avenae on oat seedlings (8).JPG" width="350px"> 
 
-<img src="images/Puccinia graminis f. sp. avenae/Oat seedling response to Pga (1).JPG" width="350px"> 
-
-<img src="images/Puccinia graminis f. sp. avenae/Oat seedling response to Pga (2).JPG" width="350px"> 
-
-<img src="images/Puccinia graminis f. sp. avenae/Puccinia graminis f. sp. avenae on oat (1).JPG" width="350px"> 
-
-<img src="images/Puccinia graminis f. sp. avenae/Puccinia graminis f. sp. avenae on oat (2).JPG" width="350px"> 
-
-<img src="images/Puccinia graminis f. sp. avenae/Puccinia graminis f. sp. avenae on oat (3).jpg" width="350px"> 
-
-<img src="images/Puccinia graminis f. sp. avenae/Puccinia graminis f. sp. avenae on oat (4).jpg" width="350px"> 
-
-<img src="images/Puccinia graminis f. sp. avenae/Puccinia graminis f. sp. avenae on oat (5).jpg" width="350px"> 
-
-<img src="images/Puccinia graminis f. sp. avenae/Puccinia graminis f. sp. avenae on oat (6).jpg" width="350px"> 
-
-<img src="images/Puccinia graminis f. sp. avenae/Puccinia graminis f. sp. avenae on oat (7).JPG" width="350px"> 
-
-<img src="images/Puccinia graminis f. sp. avenae/Puccinia graminis f. sp. avenae on oat seedlings (8).JPG" width="350px"> 
-
 ## _Puccinia graminis_ f. sp. _tritici_
 
 <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (1).JPG" width="350px">
