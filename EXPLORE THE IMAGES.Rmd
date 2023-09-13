@@ -17,6 +17,10 @@ output:
 
 <img src="images/Austropuccinia psidii/Austropuccinia psidii (2).jpg" width="150px">
 
+<img src="images/Austropuccinia psidii/Austropuccinia psidii (1).jpg" width="3000px">
+
+<img src="images/Austropuccinia psidii/Austropuccinia psidii (2).jpg" width="300px">
+
 <img src="images/Austropuccinia psidii/Austropuccinia psidii (3).jpg" width="150px">
 
 <img src="images/Austropuccinia psidii/Austropuccinia psidii (4).jpg" width = "150px">
