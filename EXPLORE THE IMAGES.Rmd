@@ -13,7 +13,7 @@ output:
 ## _Austropuccinia psidii_
     
 
-<img src="images/Austropuccinia psidii/Austropuccinia psidii (1).jpg" width="350px">
+<img src="images/Austropuccinia psidii/Austropuccinia psidii (1).jpg" width="100px">
 
 <img src="images/Austropuccinia psidii/Austropuccinia psidii (2).jpg" width="350px">
 
