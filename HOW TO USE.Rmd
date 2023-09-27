@@ -21,7 +21,12 @@ Under the following terms:
 >Pretorius, Z.A. Bender, C.M., and Boshoff, W.H.P. 2023. The Repository of South African Plant Rust Images. Available at: DOI 10.17605/OSF.IO/UGJ8Z
 
 
+
+
 ### Image Collection Data
+
+---
+
 
  | **Pathogen**                          	| **Date**     	| **Collection site**                   	| **Host(s) scientific name**                                                   	| **Common name**                           	| **PREM no**            	|
 |-----------------------------------------------------------	|-----------------------------	|---------------------------------------	|-------------------------------------------------------------------------------	|-------------------------------------------	|------------------------	|
@@ -69,5 +74,7 @@ Under the following terms:
 | _Uromyces kentaniensis_               	| 2018 to 2021 	| Onrusrivier                           	| _Chasmanthe aethiopica_                                                       	| Cobra lily                                	| PREM63320              	|
 | _Uromyces rumicis_                    	| 2023         	| Onrus                                 	| _Rumex crispus_                                                               	| Curly dock                                	|                        	|
 
-_Disclaimer Using available resources, every effort has been made to accurately identify the rust pathogen/s and their host plant/s. Authors, contributors and curators can not be held responsible for the use by other parties of the information in the repository._
+---
+
+_*Disclaimer: Using available resources, every effort has been made to accurately identify the rust pathogen/s and their host plant/s.  Authors, contributors and curators can not be held responsible for the use by other parties of the information in the repository._
 
