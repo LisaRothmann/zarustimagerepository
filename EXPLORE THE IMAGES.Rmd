@@ -689,7 +689,7 @@ output:
 
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia hordei/Puccinia hordei on barley (16).jpg" width="150px"> </a>   
 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia hordei/Puccinia hordei on barley seedlings (17).JPG" width="150px"> </a>   
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia hordei/Puccinia hordei on barley seedlings (17).JPG" width="150px"> </a>
  
 ## _Puccinia lagenophorae_
 
@@ -723,9 +723,9 @@ output:
 
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (15).JPG" width="150px"> </a>   
 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (16).jpg" width="150px"> </a>   
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (16).jpg" width="150px"> </a> 
 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia lagenophorae/lagenophorae on Asteraceae (17).jpg" width="150px"> </a>
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (17).JPG" width="150px"> </a> 
 
 ## _Puccinia magnusiana_
 
@@ -844,17 +844,17 @@ output:
 
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia porri/Puccinia porri on bunching onion (1).jpg" width="150px"> </a>  
 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia porri/Puccinia porri on bunching onion (2).jpg" width="150px"> </a>   
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia porri/Puccinia porri on bunching onion (2).jpg" width="150px"> </a>  
 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia porri/Puccinia porri on bunching onion (3).jpg" width="150px"> </a>   
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia porri/Puccinia porri on bunching onion (3).jpg" width="150px"> </a>
 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia porri/Puccinia porri on bunching onion (4).jpg" width="150px"> </a>   
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia porri/Puccinia porri on bunching onion (4).jpg" width="150px"> </a>
 
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia porri/Puccinia porri on bunching onion (1).jpg" width="150px"> </a>   
 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia porri/Puccinia porri on bunching onion (2).jpg" width="150px"> </a>  
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia porri/Puccinia porri on bunching onion (2).jpg" width="150px"> </a>
 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia porri/Puccinia porri on garlic (1).jpg" width="150px"> </a>   
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia porri/Puccinia porri on garlic (1).jpg" width="150px"> </a>
 
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia porri/Puccinia porri on garlic (2).jpg" width="150px"> </a>   
 
