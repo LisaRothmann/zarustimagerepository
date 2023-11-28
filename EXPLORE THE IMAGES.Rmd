@@ -78,7 +78,7 @@ output:
 
 <a href="https://osf.io/9hdpb"> <img src="images/Melampsora larici-populina/Melampsora larici-populina (4).jpg" width="150px"> </a>
 
-<a href="https://osf.io/9hdpb"> <img src="images/Melampsora larici-populina/Melampsora larici-populina (5).jpg" width="150px"> </a>
+<a href="https://osf.io/9hdpb"> <img src="images/Melampsora larici-populina/Melampsora larici-populina (5).JPG" width="150px"> </a>
 
 <a href="https://osf.io/9hdpb"> <img src="images/Melampsora larici-populina/Melampsora larici-populina (6).jpg" width="150px"> </a>
 
@@ -188,19 +188,19 @@ output:
  
  <a href="https://osf.io/9hdpb"> <img src="images/Phakopsora pachyrhizi/Phakopsora pachyrhizi on soybean (11).JPG" width="150px"> </a>
  
- <a href="https://osf.io/9hdpb"> <img src="images/Phakopsora pachyrhizi/Phakopsora pachyrhizi on soybean (12).JPG" width="150px"> </a>
+<a href="https://osf.io/9hdpb"> <img src="images/Phakopsora pachyrhizi/Phakopsora pachyrhizi on soybean (12).JPG" width="150px"> </a>
  
- <a href="https://osf.io/9hdpb"> <img src="images/Phakopsora pachyrhizi/Phakopsora pachyrhizi on soybean (13).JPG" width="150px"> </a>
+<a href="https://osf.io/9hdpb"> <img src="images/Phakopsora pachyrhizi/Phakopsora pachyrhizi on soybean (13).JPG" width="150px"> </a>
  
- <a href="https://osf.io/9hdpb"> <img src="images/Phakopsora pachyrhizi/Phakopsora pachyrhizi on soybean (14).JPG" width="150px"> </a>
+<a href="https://osf.io/9hdpb"> <img src="images/Phakopsora pachyrhizi/Phakopsora pachyrhizi on soybean (14).JPG" width="150px"> </a>
  
- <a href="https://osf.io/9hdpb"> <img src="images/Phakopsora pachyrhizi/Phakopsora pachyrhizi on soybean (15).JPG" width="150px"> </a>
+<a href="https://osf.io/9hdpb"> <img src="images/Phakopsora pachyrhizi/Phakopsora pachyrhizi on soybean (15).JPG" width="150px"> </a>
  
- <a href="https://osf.io/9hdpb"> <img src="images/Phakopsora pachyrhizi/Phakopsora pachyrhizi on soybean (16).JPG" width="150px"> </a>
+<a href="https://osf.io/9hdpb"> <img src="images/Phakopsora pachyrhizi/Phakopsora pachyrhizi on soybean (16).JPG" width="150px"> </a>
  
- <a href="https://osf.io/9hdpb"> <img src="images/Phakopsora pachyrhizi/Phakopsora pachyrhizi on soybean (17).JPG" width="150px"> </a>
+<a href="https://osf.io/9hdpb"> <img src="images/Phakopsora pachyrhizi/Phakopsora pachyrhizi on soybean (17).JPG" width="150px"> </a>
  
- <a href="https://osf.io/9hdpb"> <img src="images/Phakopsora pachyrhizi/Phakopsora pachyrhizi on soybean.jpg" width="150px"> </a>
+<a href="https://osf.io/9hdpb"> <img src="images/Phakopsora pachyrhizi/Phakopsora pachyrhizi on soybean.JPG" width="150px"> </a>
 
 # **_Phragmidium_**
 
@@ -310,11 +310,11 @@ output:
 
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha (2).JPG" width="150px"> </a>
 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha_1.JPG" width="150px"> </a>
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha_1.jpeg" width="150px"> </a>
 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha_2.JPG" width="150px"> </a>
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha_2.jpg" width="150px"> </a>
 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha_3.JPG" width="150px"> </a>
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha_3.jpg" width="150px"> </a>
  
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (1).jpg" width="150px"> </a>
  
@@ -607,7 +607,7 @@ output:
 
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia graminis subsp. graminicola/Puccinia graminis subsp. graminicola on Lolium (4).jpg" width="150px"> </a> 
 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia graminis subsp. graminicola/Puccinia graminis subsp. graminicola on Lolium (5).jpg" width="150px"> </a> 
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia graminis subsp. graminicola/Puccinia graminis subsp. graminicola on Lolium (5).JPG" width="150px"> </a> 
 
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia graminis subsp. graminicola/Puccinia graminis subsp. graminicola on Lolium (6).jpg" width="150px"> </a> 
 
