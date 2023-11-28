@@ -90,6 +90,23 @@ output:
 
 <a href="https://osf.io/9hdpb"> <img src="images/Melampsora larici-populina/Melampsora larici-populina (10).jpg" width="150px"> </a>
 
+# **_Miyagia_**
+
+## _Miyagia pseudosphaeria_
+<a href="https://osf.io/9hdpb"> <img src="images/Miyagia pseudosphaeria/Miyagia pseudosphaeria on sowthistle (1).jpg" width="150px"> </a>
+
+<a href="https://osf.io/9hdpb"> <img src="images/Miyagia pseudosphaeria/Miyagia pseudosphaeria on sowthistle (2).jpg" width="150px"> </a>
+
+<a href="https://osf.io/9hdpb"> <img src="images/Miyagia pseudosphaeria/Miyagia pseudosphaeria on sowthistle (3).jpg" width="150px"> </a>
+
+<a href="https://osf.io/9hdpb"> <img src="images/Miyagia pseudosphaeria/Miyagia pseudosphaeria on sowthistle (4).jpg" width="150px"> </a>
+
+<a href="https://osf.io/9hdpb"> <img src="images/Miyagia pseudosphaeria/Miyagia pseudosphaeria on sowthistle (5).jpg" width="150px"> </a>
+
+<a href="https://osf.io/9hdpb"> <img src="images/Miyagia pseudosphaeria/Miyagia pseudosphaeria on sowthistle (6).jpg" width="150px"> </a>
+
+<a href="https://osf.io/9hdpb"> <img src="images/Miyagia pseudosphaeria/Miyagia pseudosphaeria on sowthistle (7).jpg" width="150px"> </a>
+
 # **_Phakopsora_**
 
 ## _Phakopsora nishidana_
@@ -281,18 +298,16 @@ output:
 
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha (1).JPG" width="150px"> </a>
 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha (1a).tif" width="150px"> </a>
-
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha (1).tiff" width="150px"> </a>
-
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha (2).JPG" width="150px"> </a>
- 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha.tif" width="150px"> </a>
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha_1.JPG" width="150px"> </a>
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha_2.JPG" width="150px"> </a>
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia digitariae/Puccinia digitariae on Digitaria eriantha_3.JPG" width="150px"> </a>
  
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (1).jpg" width="150px"> </a>
  
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (1).tif" width="150px"> </a>
-
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (2).jpg" width="150px"> </a>
 
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (3).jpg" width="150px"> </a>
@@ -303,7 +318,7 @@ output:
 
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (6).jpg" width="150px"> </a>
 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum.jpg" width="150px"> </a>
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum (a).jpg" width="150px"> </a>
 
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia digitariae/Puccinia digitariae on Solanum.png" width="150px"> </a>
 
@@ -572,6 +587,22 @@ output:
 
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici.JPG" width="150px"> </a>   
 
+## _Puccinia graminis subsp. graminicola_ ##
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia graminis subsp. graminicola/Puccinia graminis subsp. graminicola on Lolium (1).jpg" width="150px"> </a>   
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia graminis subsp. graminicola/Puccinia graminis subsp. graminicola on Lolium (2).jpg" width="150px"> </a> 
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia graminis subsp. graminicola/Puccinia graminis subsp. graminicola on Lolium (3).jpg" width="150px"> </a> 
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia graminis subsp. graminicola/Puccinia graminis subsp. graminicola on Lolium (4).jpg" width="150px"> </a> 
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia graminis subsp. graminicola/Puccinia graminis subsp. graminicola on Lolium (5).jpg" width="150px"> </a> 
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia graminis subsp. graminicola/Puccinia graminis subsp. graminicola on Lolium (6).jpg" width="150px"> </a> 
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia graminis subsp. graminicola/Puccinia graminis subsp. graminicola on Lolium (7).jpg" width="150px"> </a> 
+
 ## _Puccinia granularis_
 
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia granularis/Puccinia granularis on Pelargonium (1).jpg" width="150px"> </a>   
@@ -598,21 +629,21 @@ output:
 
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (8).jpg" width="150px"> </a>  
 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (9).tif" width="150px"> </a>
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (9).jpg" width="150px"> </a>  
 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (10).tif" width="150px"> </a>
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (10).jpg" width="150px"> </a>  
 
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (11).jpg" width="150px"> </a>  
 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (12).tif" width="150px"> </a>
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (12).jpg" width="150px"> </a>  
 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (13).tif" width="150px"> </a>
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (13).jpg" width="150px"> </a>  
 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (14).tif" width="150px"> </a>
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (14).jpg" width="150px"> </a>  
 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (15).tif" width="150px"> </a>
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (15).jpg" width="150px"> </a>  
 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (16).tif" width="150px"> </a>
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (16).jpg" width="150px"> </a>  
  
 ## _Puccinia hemerocallidis_
 
@@ -696,6 +727,22 @@ output:
 
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia lagenophorae/lagenophorae on Asteraceae (17).jpg" width="150px"> </a>
 
+## _Puccinia magnusiana_
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia magnusiana/Puccinia magnusiana on Phragmitis australis (1).jpg" width="150px"> </a>   
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia magnusiana/Puccinia magnusiana on Phragmitis australis (2).jpg" width="150px"> </a>   
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia magnusiana/Puccinia magnusiana on Phragmitis australis (3).jpg" width="150px"> </a>   
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia magnusiana/Puccinia magnusiana on Phragmitis australis (4).jpg" width="150px"> </a>   
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia magnusiana/Puccinia magnusiana on Phragmitis australis (5).jpg" width="150px"> </a>   
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia magnusiana/Puccinia magnusiana on Phragmitis australis (6).jpg" width="150px"> </a>   
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia magnusiana/Puccinia magnusiana on Phragmitis australis (7).jpg" width="150px"> </a>   
+
 
 ## _Puccinia malvacearum_
 
@@ -773,6 +820,26 @@ output:
 
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia polypogonis/Puccinia polypogonis on Polypogon monspeliensis (4).jpg" width="150px"> </a>   
  
+## _Puccinia recondita f. sp. secalis_
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (1).jpg" width="150px"> </a>  
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (2).jpg" width="150px"> </a>  
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (3).jpg" width="150px"> </a>  
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (4).jpg" width="150px"> </a>  
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (5).jpg" width="150px"> </a>  
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (6).jpg" width="150px"> </a>  
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (7).jpg" width="150px"> </a>  
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (8).jpg" width="150px"> </a>  
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (9).jpg" width="150px"> </a>  
+
 ## _Puccinia porri_
 
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia porri/Puccinia porri on bunching onion (1).jpg" width="150px"> </a>  
@@ -811,23 +878,16 @@ output:
 
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia sorghi/Puccinia sorghi on maize (1).jpg" width="150px"> </a>  
 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia sorghi/Puccinia sorghi on maize (1).tif" width="150px"> </a>   
-
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia sorghi/Puccinia sorghi on maize (2).jpg" width="150px"> </a>   
 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia sorghi/Puccinia sorghi on maize (2).tif" width="150px"> </a>   
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia sorghi/Puccinia sorghi on maize (3).jpg" width="150px"> </a>  
 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia sorghi/Puccinia sorghi on maize (3).jpg" width="150px"> </a>   
-
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia sorghi/Puccinia sorghi on maize (3).tif" width="150px"> </a>   
-
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia sorghi/Puccinia sorghi on maize (4).tif" width="150px"> </a>   
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia sorghi/Puccinia sorghi on maize (4).jpg" width="150px"> </a> 
 
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia sorghi/Puccinia sorghi on maize (5).jpg" width="150px"> </a>   
 
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia sorghi/Puccinia sorghi on maize (6).jpg" width="150px"> </a>   
-
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia sorghi/Puccinia sorghi on maize (6).tif" width="150px"> </a>   
+ 
  
 ## _Puccinia stenotaphri_
 
@@ -1097,6 +1157,15 @@ output:
 <a href="https://osf.io/9hdpb"> <img src="images/Uromyces badius/Uromyces badius on Haemanthus (6).jpg" width="150px"> </a>  
 
 <a href="https://osf.io/9hdpb"> <img src="images/Uromyces badius/Uromyces badius on Haemanthus (7).jpg" width="150px"> </a>  
+
+## _Uromyces bidenticola_
+ <a href="https://osf.io/9hdpb"> <img src="images/Uromyces bidenticola/Uromyces bidenticola on Bidens pilosa (1).jpg" width="150px"> </a>
+ 
+<a href="https://osf.io/9hdpb"> <img src="images/Uromyces bidenticola/Uromyces bidenticola on Bidens pilosa (2).jpg" width="150px"> </a> 
+
+ <a href="https://osf.io/9hdpb"> <img src="images/Uromyces bidenticola/Uromyces bidenticola on Bidens pilosa (4).jpg" width="150px"> </a> 
+ 
+  <a href="https://osf.io/9hdpb"> <img src="images/Uromyces bidenticola/Uromyces bidenticola on Bidens pilosa (5).jpg" width="150px"> </a> 
  
 ## _Uromyces dianthi_
 
@@ -1138,7 +1207,6 @@ output:
 <a href="https://osf.io/9hdpb"> <img src="images/Uromyces kentaniensis/Uromyces kentaniensis on cobra lily (4).JPG" width="150px"> </a>  
 
 <a href="https://osf.io/9hdpb"> <img src="images/Uromyces kentaniensis/Uromyces kentaniensis on cobra lily (5).JPG" width="150px"> </a>  
-
  
 ## _Uromyces rumicis_
 
