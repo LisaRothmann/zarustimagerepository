@@ -144,7 +144,17 @@ output:
  
  <a href="https://osf.io/9hdpb"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (14).JPG" width="150px"> </a>
  
- <a href="https://osf.io/9hdpb"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus pumila.jpg" width="150px"> </a>
+<a href="https://osf.io/9hdpb"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus pumila.jpg" width="150px"> </a>
+ 
+<a href="https://osf.io/9hdpb"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus pumila (1).jpg" width="150px"> </a>
+ 
+<a href="https://osf.io/9hdpb"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus pumila (2).jpg" width="150px"> </a>
+
+<a href="https://osf.io/9hdpb"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus pumila (3).jpg" width="150px"> </a>
+ 
+<a href="https://osf.io/9hdpb"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus pumila (4).jpg" width="150px"> </a>
+  
+<a href="https://osf.io/9hdpb"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus pumila (5).jpg" width="150px"> </a>
 
 ## _Phakopsora pachyrhizi_ 
 
@@ -979,13 +989,23 @@ output:
  
 ## _Puccinia thaliae_
 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia thaliae/Puccinia thaliae on canna lily (1).jpg" width="150px"> </a>  
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia thaliae/Puccinia thaliae on canna lily (1).jpg" width="150px"> </a>
 
-<a href="https://osf.io/9hdpb"> <img src="images/Puccinia thaliae/Puccinia thaliae on canna lily (2).jpg" width="150px"> </a>  
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia thaliae/Puccinia thaliae on canna lily (2).jpg" width="150px"> </a>
 
 <a href="https://osf.io/9hdpb"> <img src="images/Puccinia thaliae/Puccinia thaliae on canna lily (3).jpg" width="150px"> </a>  
 
- 
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia thaliae/Puccinia thaliae new (1).jpg" width="150px"> </a>
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia thaliae/Puccinia thaliae new (2).jpg" width="150px"> </a>
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia thaliae/Puccinia thaliae new (3).jpg" width="150px"> </a>
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia thaliae/Puccinia thaliae new (4).jpg" width="150px"> </a>
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia thaliae/Puccinia thaliae new (5).jpg" width="150px"> </a>
+
+<a href="https://osf.io/9hdpb"> <img src="images/Puccinia thaliae/Puccinia thaliae new (6).jpg" width="150px"> </a>
  
 ## _Puccinia triticina_
 
