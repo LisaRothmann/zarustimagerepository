@@ -89,23 +89,65 @@ output:
 # **_Miyagia_**
 
 ## _Miyagia pseudosphaeria_
-<a href="hello"> <img src="images/Miyagia pseudosphaeria/Miyagia pseudosphaeria on sowthistle (1).jpg" width="150px"> </a>
+<a href="https://osf.io/3pb8g"> <img src="images/Miyagia pseudosphaeria/Miyagia pseudosphaeria on sowthistle (1).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Miyagia pseudosphaeria/Miyagia pseudosphaeria on sowthistle (2).jpg" width="150px"> </a>
+<a href="https://osf.io/7cbav"> <img src="images/Miyagia pseudosphaeria/Miyagia pseudosphaeria on sowthistle (2).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Miyagia pseudosphaeria/Miyagia pseudosphaeria on sowthistle (3).jpg" width="150px"> </a>
+<a href="https://osf.io/ary7t"> <img src="images/Miyagia pseudosphaeria/Miyagia pseudosphaeria on sowthistle (3).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Miyagia pseudosphaeria/Miyagia pseudosphaeria on sowthistle (4).jpg" width="150px"> </a>
+<a href="https://osf.io/peyvb"> <img src="images/Miyagia pseudosphaeria/Miyagia pseudosphaeria on sowthistle (4).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Miyagia pseudosphaeria/Miyagia pseudosphaeria on sowthistle (5).jpg" width="150px"> </a>
+<a href="https://osf.io/tqr3k"> <img src="images/Miyagia pseudosphaeria/Miyagia pseudosphaeria on sowthistle (5).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Miyagia pseudosphaeria/Miyagia pseudosphaeria on sowthistle (6).jpg" width="150px"> </a>
+<a href="https://osf.io/vsn9p"> <img src="images/Miyagia pseudosphaeria/Miyagia pseudosphaeria on sowthistle (6).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Miyagia pseudosphaeria/Miyagia pseudosphaeria on sowthistle (7).jpg" width="150px"> </a>
+<a href="https://osf.io/7r52f"> <img src="images/Miyagia pseudosphaeria/Miyagia pseudosphaeria on sowthistle (7).jpg" width="150px"> </a>
 
 # **_Phakopsora_**
 
 ## _Phakopsora nishidana_
+
+<a href="https://osf.io/w8hbd"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (1).jpg" width="150px"> </a>
+
+<a href="https://osf.io/p2hdz"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (1a).jpg" width="150px"> </a>
+
+<a href="https://osf.io/75qkb"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (2).jpg" width="150px"> </a>
+
+<a href="https://osf.io/wxjb5"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (2a).jpg" width="150px"> </a>
+
+<a href="https://osf.io/2ga3n"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (3).jpg" width="150px"> </a>
+
+<a href="https://osf.io/w9qtp"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (3a).jpg" width="150px"> </a>
+
+<a href="https://osf.io/vz9uf"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (4).jpg" width="150px"> </a>
+
+<a href="https://osf.io/srhyz"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (5).jpg" width="150px"> </a>
+
+<a href="https://osf.io/bnqrk"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (6).jpg" width="150px"> </a>
+
+<a href="https://osf.io/5kjdt"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (7).jpg" width="150px"> </a>
+
+<a href="https://osf.io/8pnda"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (8).jpg" width="150px"> </a>
+
+<a href="https://osf.io/9bnaq"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (9).jpg" width="150px"> </a>
+
+<a href="https://osf.io/ajynw"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (10).jpg" width="150px"> </a>
+
+<a href="https://osf.io/ah2ys"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (11).jpg" width="150px"> </a>
+
+<a href="https://osf.io/gcw7q"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (12).jpg" width="150px"> </a>
+
+<a href="https://osf.io/gz5kx"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (13).JPG" width="150px"> </a>
+
+<a href="https://osf.io/8nsz2"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus carica (14).JPG" width="150px"> </a>
+
+<a href="https://osf.io/78462"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus pumila.jpg" width="150px"> </a>
+
+<a href="https://osf.io/ms83t"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus pumila (2).jpg" width="150px"> </a>
+
+<a href="https://osf.io/jc7pu"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus pumila (4).jpg" width="150px"> </a>
+
+<a href="https://osf.io/gc24z"> <img src="images/Phakopsora nishidana/Phakopsora nishidana on Ficus pumila (5).jpg" width="150px"> </a>
 
 
 ## _Phakopsora pachyrhizi_ 
@@ -295,750 +337,746 @@ output:
 
 ## _Puccinia graminis_ f. sp. _avenae_
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. avenae/Oat seedling response to Pga (1).JPG" width="150px"> </a> 
+<a href="https://osf.io/qpbkd"> <img src="images/Puccinia graminis f. sp. avenae/Oat seedling response to Pga (1).JPG" width="150px"> </a> 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. avenae/Oat seedling response to Pga (2).JPG" width="150px"> </a> 
+<a href="https://osf.io/h57vm"> <img src="images/Puccinia graminis f. sp. avenae/Oat seedling response to Pga (2).JPG" width="150px"> </a> 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. avenae/Puccinia graminis f. sp. avenae on oat (1).JPG" width="150px"> </a> 
+<a href="https://osf.io/eyhs7"> <img src="images/Puccinia graminis f. sp. avenae/Puccinia graminis f. sp. avenae on oat (1).JPG" width="150px"> </a> 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. avenae/Puccinia graminis f. sp. avenae on oat (2).JPG" width="150px"> </a> 
+<a href="https://osf.io/he98s"> <img src="images/Puccinia graminis f. sp. avenae/Puccinia graminis f. sp. avenae on oat (2).JPG" width="150px"> </a> 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. avenae/Puccinia graminis f. sp. avenae on oat (3).jpg" width="150px"> </a> 
+<a href="https://osf.io/dn7hm"> <img src="images/Puccinia graminis f. sp. avenae/Puccinia graminis f. sp. avenae on oat (3).jpg" width="150px"> </a> 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. avenae/Puccinia graminis f. sp. avenae on oat (4).jpg" width="150px"> </a> 
+<a href="https://osf.io/xnhst"> <img src="images/Puccinia graminis f. sp. avenae/Puccinia graminis f. sp. avenae on oat (4).jpg" width="150px"> </a> 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. avenae/Puccinia graminis f. sp. avenae on oat (5).jpg" width="150px"> </a> 
+<a href="https://osf.io/kzaym"> <img src="images/Puccinia graminis f. sp. avenae/Puccinia graminis f. sp. avenae on oat (5).jpg" width="150px"> </a> 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. avenae/Puccinia graminis f. sp. avenae on oat (6).jpg" width="150px"> </a> 
+<a href="https://osf.io/mnaxz"> <img src="images/Puccinia graminis f. sp. avenae/Puccinia graminis f. sp. avenae on oat (6).jpg" width="150px"> </a> 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. avenae/Puccinia graminis f. sp. avenae on oat (7).JPG" width="150px"> </a> 
+<a href="https://osf.io/c9upb"> <img src="images/Puccinia graminis f. sp. avenae/Puccinia graminis f. sp. avenae on oat (7).JPG" width="150px"> </a> 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. avenae/Puccinia graminis f. sp. avenae on oat seedlings (8).JPG" width="150px"> </a> 
+<a href="https://osf.io/zpfmb"> <img src="images/Puccinia graminis f. sp. avenae/Puccinia graminis f. sp. avenae on oat seedlings (8).JPG" width="150px"> </a> 
 
 ## _Puccinia graminis_ f. sp. _tritici_
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (1).JPG" width="150px"> </a>
+<a href="https://osf.io/8g9wy"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (1).JPG" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (2).JPG" width="150px"> </a>
+<a href="https://osf.io/x2as7"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (2).JPG" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (3).JPG" width="150px"> </a>
+<a href="https://osf.io/mnp7a"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (3).JPG" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (4).JPG" width="150px"> </a>
+<a href="https://osf.io/wsm92"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (4).JPG" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (5).JPG" width="150px"> </a>
+<a href="https://osf.io/rkq43"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (5).JPG" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (6).JPG" width="150px"> </a>
+<a href="https://osf.io/8fh2q"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (6).JPG" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (7).JPG" width="150px"> </a>
+<a href="https://osf.io/2ba49"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (7).JPG" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (8).JPG" width="150px"> </a>
+<a href="https://osf.io/dxvw8"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (8).JPG" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (9).JPG" width="150px"> </a>
+<a href="https://osf.io/bpwh2"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (9).JPG" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (10).JPG" width="150px"> </a>
+<a href="https://osf.io/2ueaz"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (10).JPG" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (11).JPG" width="150px"> </a>
+<a href="https://osf.io/qa9by"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley (11).JPG" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley.JPG" width="150px"> </a>
+<a href="https://osf.io/yvbjw"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on barley.JPG" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on triticale (1).jpg" width="150px"> </a>
+<a href="https://osf.io/qunhe"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on triticale (1).jpg" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on triticale (2).jpg" width="150px"> </a>
+<a href="https://osf.io/dw2f5"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on triticale (2).jpg" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on triticale (3).jpg" width="150px"> </a>
+<a href="https://osf.io/9dpuq"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on triticale (3).jpg" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on triticale (4).jpg" width="150px"> </a>
+<a href="https://osf.io/4rtj2"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on triticale (4).jpg" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on triticale (5).jpg" width="150px"> </a>
+<a href="https://osf.io/86vtq"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on triticale (5).jpg" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on triticale (6).jpg" width="150px"> </a>
+<a href="https://osf.io/w8qcs"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on triticale (6).jpg" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (1).jpg" width="150px"> </a>
+<a href="https://osf.io/jq9dw"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (1).jpg" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (3).jpg" width="150px"> </a>
+<a href="https://osf.io/k382b"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (3).jpg" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (4).JPG" width="150px"> </a>
+<a href="https://osf.io/ct63d"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (4).JPG" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (5).jpg" width="150px"> </a>
+<a href="https://osf.io/6wpd5"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (5).jpg" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (6).JPG" width="150px"> </a>  
+<a href="https://osf.io/vek72"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (6).JPG" width="150px"> </a>  
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (7).jpg" width="150px"> </a>
+<a href="https://osf.io/x6fqh"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (7).jpg" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (8).jpg" width="150px"> </a>
+<a href="https://osf.io/8x6b2"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (8).jpg" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (9).JPG" width="150px"> </a>
+<a href="https://osf.io/je57r"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (9).JPG" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (10).JPG" width="150px"> </a>
+<a href="https://osf.io/f4qwr"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (10).JPG" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (11).JPG" width="150px"> </a>
+<a href="https://osf.io/2y7xv"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (11).JPG" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (12).JPG" width="150px"> </a>
+<a href="https://osf.io/7kfdc"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (12).JPG" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (13).jpg" width="150px"> </a>
+<a href="https://osf.io/zw2hj"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (13).jpg" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (14).jpg" width="150px"> </a>
+<a href="https://osf.io/75ybs"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (14).jpg" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (17).JPG" width="150px"> </a>
+<a href="https://osf.io/bkdwv"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (17).JPG" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (18).JPG" width="150px"> </a>
+<a href="https://osf.io/k5tr4"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (18).JPG" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (19).JPG" width="150px"> </a>
+<a href="https://osf.io/ur5e2"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (19).JPG" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (20).JPG" width="150px"> </a>
+<a href="https://osf.io/eqp78"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (20).JPG" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (21).jpg" width="150px"> </a>
+<a href="https://osf.io/29jzb"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (21).jpg" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (22).jpg" width="150px"> </a>
+<a href="https://osf.io/p4y27"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (22).jpg" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (23).jpg" width="150px"> </a>
+<a href="https://osf.io/kjhp2"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (23).jpg" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (24).jpg" width="150px"> </a>
+<a href="https://osf.io/fqhsa"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (24).jpg" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (25).jpg" width="150px"> </a>
+<a href="https://osf.io/xsrpu"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (25).jpg" width="150px"> </a>
 
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (26).jpg" width="150px"> </a>
+<a href="https://osf.io/bpfwz"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (26).jpg" width="150px"> </a>
 
 
+<a href="https://osf.io/zqu6x"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (27).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (27).jpg" width="150px"> </a>
 
+<a href="https://osf.io/8wfc2"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (28).JPG" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (28).JPG" width="150px"> </a>
 
+<a href="https://osf.io/7a6yk"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (29).JPG" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (29).JPG" width="150px"> </a>
 
+<a href="https://osf.io/byfwa"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (30).JPG" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (30).JPG" width="150px"> </a>
 
+<a href="https://osf.io/c87qy"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (31).JPG" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (31).JPG" width="150px"> </a>
 
+<a href="https://osf.io/e52ks"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (32).JPG" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (32).JPG" width="150px"> </a>
 
+<a href="https://osf.io/ea7xf"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (33).JPG" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (33).JPG" width="150px"> </a>
 
+<a href="https://osf.io/sjmg3"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (34).JPG" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (34).JPG" width="150px"> </a>
 
+<a href="https://osf.io/frxnu"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (35).JPG" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (35).JPG" width="150px"> </a>
 
+<a href="https://osf.io/2ws7r"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (36).JPG" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (36).JPG" width="150px"> </a>
 
+<a href="https://osf.io/cu892"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (37).JPG" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (37).JPG" width="150px"> </a>
 
+<a href="https://osf.io/nqdp2"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (38).JPG" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (38).JPG" width="150px"> </a>
 
+<a href="https://osf.io/wqv3j"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (39).JPG" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (39).JPG" width="150px"> </a>
 
+<a href="https://osf.io/kmqsg"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (40).JPG" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (40).JPG" width="150px"> </a>
 
+<a href="https://osf.io/kvd5b"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (41).JPG" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (41).JPG" width="150px"> </a>
 
+<a href="https://osf.io/wmy6g"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (42).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (42).jpg" width="150px"> </a>
 
+<a href="https://osf.io/wmy6g"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (43).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (43).jpg" width="150px"> </a>
 
+<a href="https://osf.io/8zfhe"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (45).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (45).JPG" width="150px"> </a>   
+<a href="https://osf.io/4ukzn"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (46).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (46).JPG" width="150px"> </a>   
+<a href="https://osf.io/u9nkp"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (67).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (67).jpg" width="150px"> </a>   
+<a href="https://osf.io/hsnwd"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (68).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (68).jpg" width="150px"> </a>   
+<a href="https://osf.io/8bm2h"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (69).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (69).jpg" width="150px"> </a>   
+<a href="https://osf.io/g4k5s"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (70).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (70).JPG" width="150px"> </a>   
+<a href="https://osf.io/rs6yb"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (71).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (71).JPG" width="150px"> </a>   
+<a href="https://osf.io/2jpqw"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (72).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (72).JPG" width="150px"> </a>   
+<a href="https://osf.io/495qr"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (73).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (73).jpg" width="150px"> </a>   
+<a href="https://osf.io/r7axc"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (74).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (74).JPG" width="150px"> </a>   
+<a href="https://osf.io/tv6rd"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (75).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat (75).JPG" width="150px"> </a>   
+<a href="https://osf.io/xg4mp"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat.JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Puccinia graminis f. sp. tritici on wheat.JPG" width="150px"> </a>   
+<a href="https://osf.io/wm6hk"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (1).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (1).JPG" width="150px"> </a>  
+<a href="https://osf.io/tg895"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (2).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (2).JPG" width="150px"> </a>   
+<a href="https://osf.io/5jts2"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (3).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (3).JPG" width="150px"> </a>   
+<a href="https://osf.io/5xvqp"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (4).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (4).JPG" width="150px"> </a>  
+<a href="https://osf.io/9kg6d"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (5).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (5).JPG" width="150px"> </a>   
+<a href="https://osf.io/8rv5p"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (6).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (6).JPG" width="150px"> </a>  
+<a href="https://osf.io/fe7sd"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (7).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (7).JPG" width="150px"> </a>   
+<a href="https://osf.io/4cp9g"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (8).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (8).JPG" width="150px"> </a>   
+<a href="https://osf.io/2tdvb"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (9).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (9).JPG" width="150px"> </a>   
+<a href="https://osf.io/8r9c5"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (10).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (10).JPG" width="150px"> </a>   
+<a href="https://osf.io/qvxh6"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (11).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (11).JPG" width="150px"> </a>   
+<a href="https://osf.io/at6bx"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (12).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (12).JPG" width="150px"> </a>   
+<a href="https://osf.io/8hr6c"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (13).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (13).JPG" width="150px"> </a>   
+<a href="https://osf.io/fd9nv"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (14).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici (14).JPG" width="150px"> </a>   
-
-<a href="hello"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici.JPG" width="150px"> </a>   
+<a href="https://osf.io/b5teq"> <img src="images/Puccinia graminis f. sp. tritici/Wheat seedling response to Puccinia graminis f. sp. tritici.JPG" width="150px"> </a>   
 
 ## _Puccinia graminis subsp. graminicola_ ##
 
-<a href="hello"> <img src="images/Puccinia graminis subsp. graminicola/Puccinia graminis subsp. graminicola on Lolium (1).jpg" width="150px"> </a>   
+<a href="https://osf.io/eh45p"> <img src="images/Puccinia graminis subsp. graminicola/Puccinia graminis subsp. graminicola on Lolium (1).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia graminis subsp. graminicola/Puccinia graminis subsp. graminicola on Lolium (2).jpg" width="150px"> </a> 
+<a href="https://osf.io/fu5q3"> <img src="images/Puccinia graminis subsp. graminicola/Puccinia graminis subsp. graminicola on Lolium (2).jpg" width="150px"> </a> 
 
-<a href="hello"> <img src="images/Puccinia graminis subsp. graminicola/Puccinia graminis subsp. graminicola on Lolium (3).jpg" width="150px"> </a> 
+<a href="https://osf.io/mj5yx"> <img src="images/Puccinia graminis subsp. graminicola/Puccinia graminis subsp. graminicola on Lolium (3).jpg" width="150px"> </a> 
 
-<a href="hello"> <img src="images/Puccinia graminis subsp. graminicola/Puccinia graminis subsp. graminicola on Lolium (4).jpg" width="150px"> </a> 
+<a href="https://osf.io/zn2y4"> <img src="images/Puccinia graminis subsp. graminicola/Puccinia graminis subsp. graminicola on Lolium (4).jpg" width="150px"> </a> 
 
-<a href="hello"> <img src="images/Puccinia graminis subsp. graminicola/Puccinia graminis subsp. graminicola on Lolium (5).JPG" width="150px"> </a> 
+<a href="https://osf.io/gd7qf"> <img src="images/Puccinia graminis subsp. graminicola/Puccinia graminis subsp. graminicola on Lolium (5).JPG" width="150px"> </a> 
 
-<a href="hello"> <img src="images/Puccinia graminis subsp. graminicola/Puccinia graminis subsp. graminicola on Lolium (6).jpg" width="150px"> </a> 
+<a href="https://osf.io/28c9m"> <img src="images/Puccinia graminis subsp. graminicola/Puccinia graminis subsp. graminicola on Lolium (6).jpg" width="150px"> </a> 
 
-<a href="hello"> <img src="images/Puccinia graminis subsp. graminicola/Puccinia graminis subsp. graminicola on Lolium (7).jpg" width="150px"> </a> 
+<a href="https://osf.io/kux59"> <img src="images/Puccinia graminis subsp. graminicola/Puccinia graminis subsp. graminicola on Lolium (7).jpg" width="150px"> </a> 
 
 ## _Puccinia granularis_
 
-<a href="hello"> <img src="images/Puccinia granularis/Puccinia granularis on Pelargonium (1).jpg" width="150px"> </a>   
+<a href="https://osf.io/nwp76"> <img src="images/Puccinia granularis/Puccinia granularis on Pelargonium (1).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia granularis/Puccinia granularis on Pelargonium (2).jpg" width="150px"> </a>   
+<a href="https://osf.io/ahsed"> <img src="images/Puccinia granularis/Puccinia granularis on Pelargonium (2).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia granularis/Puccinia granularis on Pelargonium (3).jpg" width="150px"> </a>   
+<a href="https://osf.io/vf7yr"> <img src="images/Puccinia granularis/Puccinia granularis on Pelargonium (3).jpg" width="150px"> </a>   
 
 ## _Puccinia helianthi_
 
-<a href="hello"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (1).jpg" width="150px"> </a> 
+<a href="https://osf.io/s2e9b"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (1).jpg" width="150px"> </a> 
 
-<a href="hello"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (2).JPG" width="150px"> </a>   
+<a href="https://osf.io/m8bfr"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (2).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (3).JPG" width="150px"> </a> 
+<a href="https://osf.io/2x7e8"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (3).JPG" width="150px"> </a> 
 
-<a href="hello"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (4).jpg" width="150px"> </a>  
+<a href="https://osf.io/3eywu"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (4).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (5).jpg" width="150px"> </a>  
+<a href="https://osf.io/zctvh"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (5).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (6).jpg" width="150px"> </a> 
+<a href="https://osf.io/bdp7h"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (6).jpg" width="150px"> </a> 
 
-<a href="hello"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (7).jpg" width="150px"> </a>   
+<a href="https://osf.io/5azk3"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (7).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (8).jpg" width="150px"> </a>  
+<a href="https://osf.io/5avu3"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (8).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (9).jpg" width="150px"> </a>  
+<a href="https://osf.io/gce79"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (9).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (10).jpg" width="150px"> </a>  
+<a href="https://osf.io/axhuq"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (10).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (11).jpg" width="150px"> </a>  
+<a href="https://osf.io/ng4ex"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (11).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (12).jpg" width="150px"> </a>  
+<a href="https://osf.io/mhcdz"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (12).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (13).jpg" width="150px"> </a>  
+<a href="https://osf.io/h57jw"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (13).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (14).jpg" width="150px"> </a>  
+<a href="https://osf.io/2kzf3"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (14).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (15).jpg" width="150px"> </a>  
+<a href="https://osf.io/6fhup"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (15).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (16).jpg" width="150px"> </a>  
+<a href="https://osf.io/4uetq"> <img src="images/Puccinia helianthi/Puccinia helianthi on sunflower (16).jpg" width="150px"> </a>  
  
 ## _Puccinia hemerocallidis_
 
-<a href="hello"> <img src="images/Puccinia hemerocallides/Puccinia hemerocallides on daylily (1).jpg" width="150px"> </a> 
+<a href="https://osf.io/f4dxb"> <img src="images/Puccinia hemerocallides/Puccinia hemerocallides on daylily (1).jpg" width="150px"> </a> 
 
-<a href="hello"> <img src="images/Puccinia hemerocallides/Puccinia hemerocallides on daylily (2).jpg" width="150px"> </a>
+<a href="https://osf.io/6wx3s"> <img src="images/Puccinia hemerocallides/Puccinia hemerocallides on daylily (2).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia hemerocallides/Puccinia hemerocallides on daylily (3).jpg" width="150px"> </a>
+<a href="https://osf.io/pehfu"> <img src="images/Puccinia hemerocallides/Puccinia hemerocallides on daylily (3).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia hemerocallides/Puccinia hemerocallides on daylily (4).jpg" width="150px"> </a>
+<a href="https://osf.io/5we9y"> <img src="images/Puccinia hemerocallides/Puccinia hemerocallides on daylily (4).jpg" width="150px"> </a>
 
 ## _Puccinia hordei_
 
-<a href="hello"> <img src="images/Puccinia hordei/Puccinia hordei on barley (1).jpg" width="150px"> </a>  
+<a href="https://osf.io/v8k6e"> <img src="images/Puccinia hordei/Puccinia hordei on barley (1).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia hordei/Puccinia hordei on barley (2).JPG" width="150px"> </a>   
+<a href="https://osf.io/bw7k3"> <img src="images/Puccinia hordei/Puccinia hordei on barley (2).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia hordei/Puccinia hordei on barley (3).JPG" width="150px"> </a>   
+<a href="https://osf.io/gds5h"> <img src="images/Puccinia hordei/Puccinia hordei on barley (3).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia hordei/Puccinia hordei on barley (4).JPG" width="150px"> </a>   
+<a href="https://osf.io/7mqgw"> <img src="images/Puccinia hordei/Puccinia hordei on barley (4).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia hordei/Puccinia hordei on barley (5).JPG" width="150px"> </a>  
+<a href="https://osf.io/42up5"> <img src="images/Puccinia hordei/Puccinia hordei on barley (5).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia hordei/Puccinia hordei on barley (6).JPG" width="150px"> </a>   
+<a href="https://osf.io/m53kf"> <img src="images/Puccinia hordei/Puccinia hordei on barley (6).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia hordei/Puccinia hordei on barley (7).JPG" width="150px"> </a>   
+<a href="https://osf.io/rwvuf"> <img src="images/Puccinia hordei/Puccinia hordei on barley (7).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia hordei/Puccinia hordei on barley (8).JPG" width="150px"> </a>   
+<a href="https://osf.io/ade6z"> <img src="images/Puccinia hordei/Puccinia hordei on barley (8).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia hordei/Puccinia hordei on barley (9).JPG" width="150px"> </a>   
+<a href="https://osf.io/xmqan"> <img src="images/Puccinia hordei/Puccinia hordei on barley (9).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia hordei/Puccinia hordei on barley (10).JPG" width="150px"> </a>   
+<a href="https://osf.io/umbzn"> <img src="images/Puccinia hordei/Puccinia hordei on barley (10).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia hordei/Puccinia hordei on barley (11).JPG" width="150px"> </a>   
+<a href="https://osf.io/awgxd"> <img src="images/Puccinia hordei/Puccinia hordei on barley (11).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia hordei/Puccinia hordei on barley (12).jpg" width="150px"> </a>   
+<a href="https://osf.io/vp2j5"> <img src="images/Puccinia hordei/Puccinia hordei on barley (12).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia hordei/Puccinia hordei on barley (13).jpg" width="150px"> </a>   
+<a href="https://osf.io/rwgkx"> <img src="images/Puccinia hordei/Puccinia hordei on barley (13).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia hordei/Puccinia hordei on barley (14).jpg" width="150px"> </a>   
+<a href="https://osf.io/dnvzy"> <img src="images/Puccinia hordei/Puccinia hordei on barley (14).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia hordei/Puccinia hordei on barley (15).jpg" width="150px"> </a>   
+<a href="https://osf.io/dj7vk"> <img src="images/Puccinia hordei/Puccinia hordei on barley (15).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia hordei/Puccinia hordei on barley (16).jpg" width="150px"> </a>   
+<a href="https://osf.io/78236"> <img src="images/Puccinia hordei/Puccinia hordei on barley (16).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia hordei/Puccinia hordei on barley seedlings (17).JPG" width="150px"> </a>
+<a href="https://osf.io/9anb5"> <img src="images/Puccinia hordei/Puccinia hordei on barley seedlings (17).JPG" width="150px"> </a>
  
 ## _Puccinia lagenophorae_
 
-<a href="hello"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (1).jpg" width="150px"> </a>  
+<a href="https://osf.io/ve2zd"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (1).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (2).jpg" width="150px"> </a>  
+<a href="https://osf.io/cuqkn"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (2).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (3).jpg" width="150px"> </a>   
+<a href="https://osf.io/7a8xn"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (3).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (4).jpg" width="150px"> </a>   
+<a href="https://osf.io/ygjae"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (4).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (5).jpg" width="150px"> </a>   
+<a href="https://osf.io/rb5wy"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (5).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (6).jpg" width="150px"> </a>   
+<a href="https://osf.io/krqps"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (6).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (7).jpg" width="150px"> </a>   
+<a href="https://osf.io/8buxq"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (7).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (8).jpg" width="150px"> </a>   
+<a href="https://osf.io/xwv34"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (8).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (9).jpg" width="150px"> </a>   
+<a href="https://osf.io/bpd9q"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (9).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (10).jpg" width="150px"> </a>   
+<a href="https://osf.io/uv4fc"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (10).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (11).jpg" width="150px"> </a>   
+<a href="https://osf.io/8mg4z"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (11).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (12).JPG" width="150px"> </a>   
+<a href="https://osf.io/bw79y"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (12).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (13).JPG" width="150px"> </a>   
+<a href="https://osf.io/vntck"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (13).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (14).JPG" width="150px"> </a>   
+<a href="https://osf.io/7vfuq"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (14).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (15).JPG" width="150px"> </a>   
+<a href="https://osf.io/3k2xf"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (15).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (16).jpg" width="150px"> </a> 
-
-<a href="hello"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (17).JPG" width="150px"> </a> 
+<a href="https://osf.io/a4jrs"> <img src="images/Puccinia lagenophorae/Puccinia lagenophorae on Asteraceae (16).jpg" width="150px"> </a> 
 
 ## _Puccinia magnusiana_
 
-<a href="hello"> <img src="images/Puccinia magnusiana/Puccinia magnusiana on Phragmitis australis (1).jpg" width="150px"> </a>   
+<a href="https://osf.io/njhgr"> <img src="images/Puccinia magnusiana/Puccinia magnusiana on Phragmitis australis (1).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia magnusiana/Puccinia magnusiana on Phragmitis australis (2).jpg" width="150px"> </a>   
+<a href="https://osf.io/ebs5v"> <img src="images/Puccinia magnusiana/Puccinia magnusiana on Phragmitis australis (2).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia magnusiana/Puccinia magnusiana on Phragmitis australis (3).jpg" width="150px"> </a>   
+<a href="https://osf.io/qne86"> <img src="images/Puccinia magnusiana/Puccinia magnusiana on Phragmitis australis (3).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia magnusiana/Puccinia magnusiana on Phragmitis australis (4).jpg" width="150px"> </a>   
+<a href="https://osf.io/fj76a"> <img src="images/Puccinia magnusiana/Puccinia magnusiana on Phragmitis australis (4).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia magnusiana/Puccinia magnusiana on Phragmitis australis (5).jpg" width="150px"> </a>   
+<a href="https://osf.io/jcmbq"> <img src="images/Puccinia magnusiana/Puccinia magnusiana on Phragmitis australis (5).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia magnusiana/Puccinia magnusiana on Phragmitis australis (6).jpg" width="150px"> </a>   
+<a href="https://osf.io/u6s9k"> <img src="images/Puccinia magnusiana/Puccinia magnusiana on Phragmitis australis (6).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia magnusiana/Puccinia magnusiana on Phragmitis australis (7).jpg" width="150px"> </a>   
+<a href="https://osf.io/rjwaf"> <img src="images/Puccinia magnusiana/Puccinia magnusiana on Phragmitis australis (7).jpg" width="150px"> </a>   
 
 
 ## _Puccinia malvacearum_
 
-<a href="hello"> <img src="images/Puccinia malvacearum/Puccinia malvacearum hollyhock (11).jpg" width="150px"> </a>   
+<a href="https://osf.io/fyjcm"> <img src="images/Puccinia malvacearum/Puccinia malvacearum hollyhock (11).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia malvacearum/Puccinia malvacearum hollyhock (14).jpg" width="150px"> </a>   
+<a href="https://osf.io/dmhyp"> <img src="images/Puccinia malvacearum/Puccinia malvacearum hollyhock (14).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia malvacearum/Puccinia malvacearum on hollyhock.jpg" width="150px"> </a>   
+<a href="https://osf.io/k92h6"> <img src="images/Puccinia malvacearum/Puccinia malvacearum on hollyhock.jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia malvacearum/Puccinia malvacearum on Malva parviflora (1).jpg" width="150px"> </a>   
+<a href="https://osf.io/sj32m"> <img src="images/Puccinia malvacearum/Puccinia malvacearum on Malva parviflora (1).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia malvacearum/Puccinia malvacearum on Malva parviflora (2).jpg" width="150px"> </a>   
+<a href="https://osf.io/xd8k4"> <img src="images/Puccinia malvacearum/Puccinia malvacearum on Malva parviflora (2).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia malvacearum/Puccinia malvacearum on Malva parviflora (3).jpg" width="150px"> </a>   
+<a href="https://osf.io/unr5p"> <img src="images/Puccinia malvacearum/Puccinia malvacearum on Malva parviflora (3).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia malvacearum/Puccinia malvacearum on Malva parviflora (4).jpg" width="150px"> </a>   
+<a href="https://osf.io/3ajzm"> <img src="images/Puccinia malvacearum/Puccinia malvacearum on Malva parviflora (4).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia malvacearum/Puccinia malvacearum on Malva parviflora (5).jpg" width="150px"> </a>   
+<a href="https://osf.io/94x5c"> <img src="images/Puccinia malvacearum/Puccinia malvacearum on Malva parviflora (5).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia malvacearum/Puccinia malvacearum on Malva parviflora (6).jpg" width="150px"> </a>   
+<a href="https://osf.io/vp6uw"> <img src="images/Puccinia malvacearum/Puccinia malvacearum on Malva parviflora (6).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia malvacearum/Puccinia malvacearum on Malva parviflora (7).jpg" width="150px"> </a>   
+<a href="https://osf.io/rke3z"> <img src="images/Puccinia malvacearum/Puccinia malvacearum on Malva parviflora (7).jpg" width="150px"> </a>   
 
 ## _Puccinia menthae_
 
-<a href="hello"> <img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (1).jpg" width="150px"> </a>
+<a href="https://osf.io/73ugm"> <img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (1).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (2).jpg" width="150px"> </a>
+<a href="https://osf.io/ksmch"> <img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (2).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (3).jpg" width="150px"> </a>
+<a href="https://osf.io/7vgwu"> <img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (3).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (4).jpg" width="150px"> </a>
+<a href="https://osf.io/pxavf"> <img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (4).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (5).JPG" width="150px"> </a>
+<a href="https://osf.io/5nyex"> <img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (5).JPG" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (6).jpg" width="150px"> </a>
+<a href="https://osf.io/u3qbs"> <img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (6).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (7).jpg" width="150px"> </a>
+<a href="https://osf.io/35qcj"> <img src="images/Puccinia menthae/Puccinia menthae on Mentha spicata (7).jpg" width="150px"> </a>
  
 ## _Puccinia pelargonii-zonalis_
 
-<a href="hello"> <img src="images/Puccinia pelargonii-zonalis/Puccinia pelargonii-zonalis on geranium (1).jpg" width="150px"> </a>  
+<a href="https://osf.io/yxr9z"> <img src="images/Puccinia pelargonii-zonalis/Puccinia pelargonii-zonalis on geranium (1).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia pelargonii-zonalis/Puccinia pelargonii-zonalis on geranium (2).jpg" width="150px"> </a>   
+<a href="https://osf.io/76wyp"> <img src="images/Puccinia pelargonii-zonalis/Puccinia pelargonii-zonalis on geranium (2).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia pelargonii-zonalis/Puccinia pelargonii-zonalis on geranium (3).jpg" width="150px"> </a>   
+<a href="https://osf.io/e2ghf"> <img src="images/Puccinia pelargonii-zonalis/Puccinia pelargonii-zonalis on geranium (3).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia pelargonii-zonalis/Puccinia pelargonii-zonalis on geranium (4).jpg" width="150px"> </a>   
+<a href="https://osf.io/wc4p7"> <img src="images/Puccinia pelargonii-zonalis/Puccinia pelargonii-zonalis on geranium (4).jpg" width="150px"> </a>   
  
 ## _Puccinia polycampta_
 
-<a href="hello"> <img src="images/Puccinia polycampta/Puccinia polycampta (1).jpg" width="150px"> </a>   
+<a href="https://osf.io/ny7kv"> <img src="images/Puccinia polycampta/Puccinia polycampta (1).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia polycampta/Puccinia polycampta (2).jpg" width="150px"> </a>   
+<a href="https://osf.io/7kbx4"> <img src="images/Puccinia polycampta/Puccinia polycampta (2).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia polycampta/Puccinia polycampta (3).jpg" width="150px"> </a>   
+<a href="https://osf.io/mwv4u"> <img src="images/Puccinia polycampta/Puccinia polycampta (3).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia polycampta/Puccinia polycampta on Trachyandra ciliata (1).jpg" width="150px"> </a>   
+<a href="https://osf.io/ybhuq"> <img src="images/Puccinia polycampta/Puccinia polycampta on Trachyandra ciliata (1).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia polycampta/Puccinia polycampta on Trachyandra ciliata (2).jpg" width="150px"> </a>   
+<a href="https://osf.io/6wjtk"> <img src="images/Puccinia polycampta/Puccinia polycampta on Trachyandra ciliata (2).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia polycampta/Puccinia polycampta on Trachyandra ciliata (3).jpg" width="150px"> </a>   
+<a href="https://osf.io/bja65"> <img src="images/Puccinia polycampta/Puccinia polycampta on Trachyandra ciliata (3).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia polycampta/Puccinia polycampta on Trachyandra ciliata (4).jpg" width="150px"> </a>   
+<a href="https://osf.io/tu85q"> <img src="images/Puccinia polycampta/Puccinia polycampta on Trachyandra ciliata (4).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia polycampta/Puccinia polycampta on Trachyandra ciliata (5).jpg" width="150px"> </a>   
+<a href="https://osf.io/z42me"> <img src="images/Puccinia polycampta/Puccinia polycampta on Trachyandra ciliata (5).jpg" width="150px"> </a>   
  
 ## _Puccinia polypogonis_
 
-<a href="hello"> <img src="images/Puccinia polypogonis/Puccinia polypogonis on Polypogon monspeliensis (1).jpg" width="150px"> </a> 
+<a href="https://osf.io/xkdjg"> <img src="images/Puccinia polypogonis/Puccinia polypogonis on Polypogon monspeliensis (1).jpg" width="150px"> </a> 
 
-<a href="hello"> <img src="images/Puccinia polypogonis/Puccinia polypogonis on Polypogon monspeliensis (2).jpg" width="150px"> </a>   
+<a href="https://osf.io/36dyf"> <img src="images/Puccinia polypogonis/Puccinia polypogonis on Polypogon monspeliensis (2).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia polypogonis/Puccinia polypogonis on Polypogon monspeliensis (3).jpg" width="150px"> </a>   
+<a href="https://osf.io/4eacd"> <img src="images/Puccinia polypogonis/Puccinia polypogonis on Polypogon monspeliensis (3).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia polypogonis/Puccinia polypogonis on Polypogon monspeliensis (4).jpg" width="150px"> </a>   
+<a href="https://osf.io/25jz3"> <img src="images/Puccinia polypogonis/Puccinia polypogonis on Polypogon monspeliensis (4).jpg" width="150px"> </a>   
  
 ## _Puccinia recondita f. sp. secalis_
 
-<a href="hello"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (1).jpg" width="150px"> </a>  
+<a href="https://osf.io/vk58u"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (1).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (2).jpg" width="150px"> </a>  
+<a href="https://osf.io/an2td"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (2).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (3).jpg" width="150px"> </a>  
+<a href="https://osf.io/mdk8e"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (3).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (4).jpg" width="150px"> </a>  
+<a href="https://osf.io/8pn7k"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (4).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (5).jpg" width="150px"> </a>  
+<a href="https://osf.io/sy7qw"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (5).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (6).jpg" width="150px"> </a>  
+<a href="https://osf.io/3uk7a"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (6).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (7).jpg" width="150px"> </a>  
+<a href="https://osf.io/4h9f7"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (7).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (8).jpg" width="150px"> </a>  
+<a href="https://osf.io/wsprx"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (8).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (9).jpg" width="150px"> </a>  
+<a href="https://osf.io/3xf5m"> <img src="images/Puccinia recondita f. sp. secalis/Puccinia recondita f. sp. secalis on rye (9).jpg" width="150px"> </a>  
 
 ## _Puccinia porri_
 
-<a href="hello"> <img src="images/Puccinia porri/Puccinia porri on bunching onion (1).jpg" width="150px"> </a>  
+<a href="https://osf.io/wyexz"> <img src="images/Puccinia porri/Puccinia porri on bunching onion (1).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia porri/Puccinia porri on bunching onion (2).jpg" width="150px"> </a>  
+<a href="https://osf.io/g2k8r"> <img src="images/Puccinia porri/Puccinia porri on bunching onion (2).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia porri/Puccinia porri on bunching onion (3).jpg" width="150px"> </a>
+<a href="https://osf.io/r8yn9"> <img src="images/Puccinia porri/Puccinia porri on bunching onion (3).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia porri/Puccinia porri on bunching onion (4).jpg" width="150px"> </a>
+<a href="https://osf.io/rvj3z"> <img src="images/Puccinia porri/Puccinia porri on bunching onion (4).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia porri/Puccinia porri on bunching onion (1).jpg" width="150px"> </a>   
+<a href="https://osf.io/mtnze"> <img src="images/Puccinia porri/Puccinia porri on bunching onion (1).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia porri/Puccinia porri on bunching onion (2).jpg" width="150px"> </a>
+<a href="https://osf.io/9adp3"> <img src="images/Puccinia porri/Puccinia porri on bunching onion (2).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia porri/Puccinia porri on garlic (1).jpg" width="150px"> </a>
+<a href="https://osf.io/adpf6"> <img src="images/Puccinia porri/Puccinia porri on garlic (1).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia porri/Puccinia porri on garlic (2).jpg" width="150px"> </a>   
+<a href="https://osf.io/9r84c"> <img src="images/Puccinia porri/Puccinia porri on garlic (2).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia porri/Puccinia porri on garlic (3).JPG" width="150px"> </a>   
+<a href="https://osf.io/b263c"> <img src="images/Puccinia porri/Puccinia porri on garlic (3).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia porri/Puccinia porri on garlic (4).JPG" width="150px"> </a> 
+<a href="https://osf.io/wevud"> <img src="images/Puccinia porri/Puccinia porri on garlic (4).JPG" width="150px"> </a> 
 
-<a href="hello"> <img src="images/Puccinia porri/Puccinia porri on garlic (5).JPG" width="150px"> </a>   
+<a href="https://osf.io/e4fxr"> <img src="images/Puccinia porri/Puccinia porri on garlic (5).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia porri/Puccinia porri teliospores (10).jpg" width="150px"> </a>   
+<a href="https://osf.io/b46xq"> <img src="images/Puccinia porri/Puccinia porri teliospores (10).jpg" width="150px"> </a>   
  
 ## _Puccinia sorghi_
 
-<a href="hello"> <img src="images/Puccinia sorghi/Puccinia sorghi infection types on maize seedlings (7).JPG" width="150px"> </a> 
+<a href="https://osf.io/dhzcv"> <img src="images/Puccinia sorghi/Puccinia sorghi infection types on maize seedlings (7).JPG" width="150px"> </a> 
 
-<a href="hello"> <img src="images/Puccinia sorghi/Puccinia sorghi infection types on maize seedlings (8).JPG" width="150px"> </a>   
+<a href="https://osf.io/mxr68"> <img src="images/Puccinia sorghi/Puccinia sorghi infection types on maize seedlings (8).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia sorghi/Puccinia sorghi infection types on maize seedlings (9).JPG" width="150px"> </a>   
+<a href="https://osf.io/xnw72"> <img src="images/Puccinia sorghi/Puccinia sorghi infection types on maize seedlings (9).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia sorghi/Puccinia sorghi infection types on maize seedlings (10).JPG" width="150px"> </a>   
+<a href="https://osf.io/pghrf"> <img src="images/Puccinia sorghi/Puccinia sorghi infection types on maize seedlings (10).JPG" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia sorghi/Puccinia sorghi on maize (1).jpg" width="150px"> </a>  
+<a href="https://osf.io/6pjra"> <img src="images/Puccinia sorghi/Puccinia sorghi on maize (1).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia sorghi/Puccinia sorghi on maize (2).jpg" width="150px"> </a>   
+<a href="https://osf.io/hxq3k"> <img src="images/Puccinia sorghi/Puccinia sorghi on maize (2).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia sorghi/Puccinia sorghi on maize (3).jpg" width="150px"> </a>  
+<a href="https://osf.io/fdksy"> <img src="images/Puccinia sorghi/Puccinia sorghi on maize (3).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia sorghi/Puccinia sorghi on maize (4).jpg" width="150px"> </a> 
+<a href="https://osf.io/pafn3"> <img src="images/Puccinia sorghi/Puccinia sorghi on maize (4).jpg" width="150px"> </a> 
 
-<a href="hello"> <img src="images/Puccinia sorghi/Puccinia sorghi on maize (5).jpg" width="150px"> </a>   
+<a href="https://osf.io/vn4bz"> <img src="images/Puccinia sorghi/Puccinia sorghi on maize (5).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia sorghi/Puccinia sorghi on maize (6).jpg" width="150px"> </a>   
+<a href="https://osf.io/98t5f"> <img src="images/Puccinia sorghi/Puccinia sorghi on maize (6).jpg" width="150px"> </a>   
  
  
 ## _Puccinia stenotaphri_
 
-<a href="hello"> <img src="images/Puccinia stenotaphri/Puccinia stenotaphri on St Augustine grass (1).jpg" width="150px"> </a>   
+<a href="https://osf.io/akt26"> <img src="images/Puccinia stenotaphri/Puccinia stenotaphri on St Augustine grass (1).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia stenotaphri/Puccinia stenotaphri on St Augustine grass (2).jpg" width="150px"> </a>   
+<a href="https://osf.io/ukt6e"> <img src="images/Puccinia stenotaphri/Puccinia stenotaphri on St Augustine grass (2).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia stenotaphri/Puccinia stenotaphri on St Augustine grass (3).jpg" width="150px"> </a>   
+<a href="https://osf.io/62huk"> <img src="images/Puccinia stenotaphri/Puccinia stenotaphri on St Augustine grass (3).jpg" width="150px"> </a>   
 
-<a href="hello"> <img src="images/Puccinia stenotaphri/Puccinia stenotaphri on St Augustine grass (4).jpg" width="150px"> </a>   
+<a href="https://osf.io/fqh49"> <img src="images/Puccinia stenotaphri/Puccinia stenotaphri on St Augustine grass (4).jpg" width="150px"> </a>   
  
 ## _Puccinia striiformis_ f. sp. _tritici_
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (1).JPG" width="150px"> </a>  
+<a href="https://osf.io/26fec"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (1).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (2).jpg" width="150px"> </a>  
+<a href="https://osf.io/8c6dy"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (2).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (3).jpg" width="150px"> </a>  
+<a href="https://osf.io/dhy7f"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (3).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (4).jpg" width="150px"> </a>  
+<a href="https://osf.io/q6cvy"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (4).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (5).JPG" width="150px"> </a>  
+<a href="https://osf.io/fv2tx"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (5).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (6).JPG" width="150px"> </a>  
+<a href="https://osf.io/up3y8"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (6).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (7).JPG" width="150px"> </a>  
+<a href="https://osf.io/nwr5h"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (7).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (8).JPG" width="150px"> </a>  
+<a href="https://osf.io/m47de"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (8).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (9).JPG" width="150px"> </a>  
+<a href="https://osf.io/j9syh"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (9).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (10).JPG" width="150px"> </a>  
+<a href="https://osf.io/pdy9f"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (10).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (11).jpg" width="150px"> </a>  
+<a href="https://osf.io/uhyqa"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (11).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (12).jpg" width="150px"> </a>  
+<a href="https://osf.io/nseyq"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (12).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (13).JPG" width="150px"> </a>  
+<a href="https://osf.io/u46ms"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (13).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (14).JPG" width="150px"> </a>  
+<a href="https://osf.io/hkgsm"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (14).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (15).JPG" width="150px"> </a>  
+<a href="https://osf.io/scjv2"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (15).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (16).jpg" width="150px"> </a>
+<a href="https://osf.io/26na5"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (16).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (17).jpg" width="150px"> </a>  
+<a href="https://osf.io/8mbvd"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (17).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (18).JPG" width="150px"> </a>  
+<a href="https://osf.io/2fycz"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (18).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (19).JPG" width="150px"> </a>  
+<a href="https://osf.io/m6z9x"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (19).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (20).JPG" width="150px"> </a>
+<a href="https://osf.io/qwd73"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (20).JPG" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (21).JPG" width="150px"> </a>  
+<a href="https://osf.io/e6w7z"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (21).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (22).jpg" width="150px"> </a>  
+<a href="https://osf.io/dyxjt"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (22).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (23).jpg" width="150px"> </a>  
+<a href="https://osf.io/tz75w"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (23).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (24).JPG" width="150px"> </a>  
+<a href="https://osf.io/ndt3m"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (24).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat seedlings (25).JPG" width="150px"> </a> 
+<a href="https://osf.io/dxqan"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat seedlings (25).JPG" width="150px"> </a> 
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici wheat head infection (26).JPG" width="150px"> </a> 
+<a href="https://osf.io/rhu5y"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici wheat head infection (26).JPG" width="150px"> </a> 
 
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici wheat head infection (27).JPG" width="150px"> </a>
-
-<a href="hello"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici on wheat (28).jpg" width="150px"> </a>
+<a href="https://osf.io/fu5dj"> <img src="images/Puccinia striiformis f. sp. tritici/Puccinia striiformis f. sp. tritici wheat head infection (27).JPG" width="150px"> </a>
 
 
 ## _Puccinia tanaceti_
 
-<a href="hello"> <img src="images/Puccinia tanaceti/Puccinia tanaceti on Argyranthemum frutescens (1).jpg" width="150px"> </a>  
+<a href="https://osf.io/ac48p"> <img src="images/Puccinia tanaceti/Puccinia tanaceti on Argyranthemum frutescens (1).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia tanaceti/Puccinia tanaceti on Argyranthemum frutescens (2).jpg" width="150px"> </a>  
+<a href="https://osf.io/nqsvc"> <img src="images/Puccinia tanaceti/Puccinia tanaceti on Argyranthemum frutescens (2).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia tanaceti/Puccinia tanaceti on Argyranthemum frutescens (3).jpg" width="150px"> </a>  
+<a href="https://osf.io/q27j3"> <img src="images/Puccinia tanaceti/Puccinia tanaceti on Argyranthemum frutescens (3).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia tanaceti/Puccinia tanaceti on Argyranthemum frutescens (4).jpg" width="150px"> </a>  
+<a href="https://osf.io/8dn9a"> <img src="images/Puccinia tanaceti/Puccinia tanaceti on Argyranthemum frutescens (4).jpg" width="150px"> </a>  
 
 ## _Puccinia taraxaci_
 
-<a href="hello"> <img src="images/Puccinia taraxaci/Puccinia taraxaci on dandelion (1).jpg" width="150px"> </a>  
+<a href="https://osf.io/rqagb"> <img src="images/Puccinia taraxaci/Puccinia taraxaci on dandelion (1).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia taraxaci/Puccinia taraxaci on dandelion (2).jpg" width="150px"> </a>  
+<a href="https://osf.io/uyhe5"> <img src="images/Puccinia taraxaci/Puccinia taraxaci on dandelion (2).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia taraxaci/Puccinia taraxaci on dandelion (3).jpg" width="150px"> </a>  
+<a href="https://osf.io/frjsy"> <img src="images/Puccinia taraxaci/Puccinia taraxaci on dandelion (3).jpg" width="150px"> </a>  
 
  
 ## _Puccinia thaliae_
 
-<a href="hello"> <img src="images/Puccinia thaliae/Puccinia thaliae on canna lily (1).jpg" width="150px"> </a>
+<a href="https://osf.io/2n8a7"> <img src="images/Puccinia thaliae/Puccinia thaliae on canna lily (1).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia thaliae/Puccinia thaliae on canna lily (2).jpg" width="150px"> </a>
+<a href="https://osf.io/2quj6"> <img src="images/Puccinia thaliae/Puccinia thaliae on canna lily (2).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia thaliae/Puccinia thaliae on canna lily (3).jpg" width="150px"> </a>  
+<a href="https://osf.io/yr64d"> <img src="images/Puccinia thaliae/Puccinia thaliae on canna lily (3).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia thaliae/Puccinia thaliae new (1).jpg" width="150px"> </a>
+<a href="https://osf.io/emjqx"> <img src="images/Puccinia thaliae/Puccinia thaliae new (1).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia thaliae/Puccinia thaliae new (2).jpg" width="150px"> </a>
+<a href="https://osf.io/42rhw"> <img src="images/Puccinia thaliae/Puccinia thaliae new (2).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia thaliae/Puccinia thaliae new (3).jpg" width="150px"> </a>
+<a href="https://osf.io/cde45"> <img src="images/Puccinia thaliae/Puccinia thaliae new (3).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia thaliae/Puccinia thaliae new (4).jpg" width="150px"> </a>
+<a href="https://osf.io/uzn8w"> <img src="images/Puccinia thaliae/Puccinia thaliae new (4).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia thaliae/Puccinia thaliae new (5).jpg" width="150px"> </a>
+<a href="https://osf.io/kt3a2"> <img src="images/Puccinia thaliae/Puccinia thaliae new (5).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Puccinia thaliae/Puccinia thaliae new (6).jpg" width="150px"> </a>
+<a href="https://osf.io/gsjeh"> <img src="images/Puccinia thaliae/Puccinia thaliae new (6).jpg" width="150px"> </a>
  
 ## _Puccinia triticina_
 
-<a href="hello"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (1).JPG" width="150px"> </a>  
+<a href="https://osf.io/hynmc"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (1).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (2).JPG" width="150px"> </a>  
+<a href="https://osf.io/4auqm"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (2).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (3).JPG" width="150px"> </a>  
+<a href="https://osf.io/jg46s"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (3).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (4).JPG" width="150px"> </a>  
+<a href="https://osf.io/zqscf"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (4).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (5).JPG" width="150px"> </a>  
+<a href="https://osf.io/ftbpd"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (5).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (6).JPG" width="150px"> </a>  
+<a href="https://osf.io/9znwe"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (6).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (7).JPG" width="150px"> </a>  
+<a href="https://osf.io/tuhqm"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (7).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (8).jpg" width="150px"> </a>  
+<a href="https://osf.io/xtphf"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (8).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (9).jpg" width="150px"> </a>  
+<a href="https://osf.io/mj4ze"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (9).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (10).jpg" width="150px"> </a>  
+<a href="https://osf.io/x7d3u"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (10).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (11).jpg" width="150px"> </a>  
+<a href="https://osf.io/y24s8"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (11).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (12).jpg" width="150px"> </a>  
+<a href="https://osf.io/wynef"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (12).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (13).jpg" width="150px"> </a>  
+<a href="https://osf.io/mjxh4"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (13).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (14).jpg" width="150px"> </a>  
+<a href="https://osf.io/m7rzq"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (14).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (15).jpg" width="150px"> </a>  
+<a href="https://osf.io/ctav9"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (15).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (16).jpg" width="150px"> </a>  
+<a href="https://osf.io/7mwbr"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (16).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (17).JPG" width="150px"> </a>  
+<a href="https://osf.io/x5trc"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (17).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (18).JPG" width="150px"> </a>  
+<a href="https://osf.io/ujwse"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (18).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (19).jpg" width="150px"> </a>  
+<a href="https://osf.io/ygn64"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (19).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (20).JPG" width="150px"> </a>  
+<a href="https://osf.io/xz6eu"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (20).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Puccinia triticina on wheat.jpg" width="150px"> </a>  
+<a href="https://osf.io/264zy"> <img src="images/Puccinia triticina/Puccinia triticina on wheat.jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Wheat flag leaf response to Puccinia triticina.JPG" width="150px"> </a>  
+<a href="https://osf.io/he9m2"> <img src="images/Puccinia triticina/Puccinia triticina on wheat (21).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/wheat leaf rust 13 Oct 16 (5).JPG" width="150px"> </a>  
+<a href="https://osf.io/aq5ct"> <img src="images/Puccinia triticina/Wheat flag leaf response to Puccinia triticina.JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/wheat leaf rust 13 Oct 16 (15).JPG" width="150px"> </a>  
+<a href="https://osf.io/69v5d"> <img src="images/Puccinia triticina/wheat leaf rust 13 Oct 16 (5).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Wheat seedling response to Puccinia triticina (1).JPG" width="150px"> </a>  
+<a href="https://osf.io/952yu"> <img src="images/Puccinia triticina/wheat leaf rust 13 Oct 16 (15).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Wheat seedling response to Puccinia triticina (2).JPG" width="150px"> </a>  
+<a href="https://osf.io/2uhp9"> <img src="images/Puccinia triticina/Wheat seedling response to Puccinia triticina (1).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Wheat seedling response to Puccinia triticina (3).jpg" width="150px"> </a>  
+<a href="https://osf.io/7e3gk"> <img src="images/Puccinia triticina/Wheat seedling response to Puccinia triticina (2).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Wheat seedling response to Puccinia triticina (4).jpg" width="150px"> </a>  
+<a href="https://osf.io/8ekhq"> <img src="images/Puccinia triticina/Wheat seedling response to Puccinia triticina (3).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Wheat seedling response to Puccinia triticina (5).JPG" width="150px"> </a>  
+<a href="https://osf.io/2vwja"> <img src="images/Puccinia triticina/Wheat seedling response to Puccinia triticina (4).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Wheat seedling response to Puccinia triticina (6).JPG" width="150px"> </a>  
+<a href="https://osf.io/ht9qj"> <img src="images/Puccinia triticina/Wheat seedling response to Puccinia triticina (5).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Wheat seedling response to Puccinia triticina (7).JPG" width="150px"> </a>  
+<a href="https://osf.io/4st2n"> <img src="images/Puccinia triticina/Wheat seedling response to Puccinia triticina (6).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Wheat seedling response to Puccinia triticina (8).JPG" width="150px"> </a>  
+<a href="https://osf.io/4atbg"> <img src="images/Puccinia triticina/Wheat seedling response to Puccinia triticina (7).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Puccinia triticina/Wheat seedling response to Puccinia triticina.jpg" width="150px"> </a>  
+<a href="https://osf.io/eyv82"> <img src="images/Puccinia triticina/Wheat seedling response to Puccinia triticina (8).JPG" width="150px"> </a>  
+
+<a href="https://osf.io/689dx"> <img src="images/Puccinia triticina/Wheat seedling response to Puccinia triticina.jpg" width="150px"> </a>  
  
  
 # **_Tranzschelia_**
 
 
 ## _Tranzschelia discolor_
-<a href="hello"> <img src="images/Tranzschelia discolor/Tranzschelia discolor on apricot (1).jpg" width="150px"> </a>  
+<a href="https://osf.io/65kfu"> <img src="images/Tranzschelia discolor/Tranzschelia discolor on apricot (1).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Tranzschelia discolor/Tranzschelia discolor on apricot (2).jpg" width="150px"> </a>  
+<a href="https://osf.io/e6m78"> <img src="images/Tranzschelia discolor/Tranzschelia discolor on apricot (2).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Tranzschelia discolor/Tranzschelia discolor on apricot (3).jpg" width="150px"> </a>  
+<a href="https://osf.io/usypz"> <img src="images/Tranzschelia discolor/Tranzschelia discolor on apricot (3).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Tranzschelia discolor/Tranzschelia discolor on peach (2).jpg" width="150px"> </a>  
+<a href="https://osf.io/wc3ur"> <img src="images/Tranzschelia discolor/Tranzschelia discolor on peach (2).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Tranzschelia discolor/Tranzschelia discolor on peach.jpg" width="150px"> </a>  
-
+<a href="https://osf.io/g39nh"> <img src="images/Tranzschelia discolor/Tranzschelia discolor on peach.jpg" width="150px"> </a>  
 
 
 # **_Uromyces_**
@@ -1046,176 +1084,158 @@ output:
 
 ## _Uromyces albucae_
 
-<a href="hello"> <img src="images/Uromyces albucae/Uromyces albucae (4).jpg" width="150px"> </a>  
+<a href="https://osf.io/5kva7"> <img src="images/Uromyces albucae/Uromyces albucae (4).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces albucae/Uromyces albucae (8).jpg" width="150px"> </a>  
+<a href="https://osf.io/rg957"> <img src="images/Uromyces albucae/Uromyces albucae (8).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces albucae/Uromyces albucae on Albuca maxima (1).jpg" width="150px"> </a>  
+<a href="https://osf.io/eq26k"> <img src="images/Uromyces albucae/Uromyces albucae on Albuca maxima (1).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces albucae/Uromyces albucae on Albuca maxima (2).jpg" width="150px"> </a>  
+<a href="https://osf.io/32uyx"> <img src="images/Uromyces albucae/Uromyces albucae on Albuca maxima (2).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces albucae/Uromyces albucae on Albuca maxima (3).jpg" width="150px"> </a>  
+<a href="https://osf.io/2qe93"> <img src="images/Uromyces albucae/Uromyces albucae on Albuca maxima (3).jpg" width="150px"> </a>  
 
- 
  
 ## _Uromyces aloes_
 
-<a href="hello"> <img src="images/Uromyces aloes/Uromyces aloes on aloe (8).JPG" width="150px"> </a>  
+<a href="https://osf.io/e3puk"> <img src="images/Uromyces aloes/Uromyces aloes on aloe (8).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces aloes/Uromyces aloes on ornamental aloe (1).jpg" width="150px"> </a>  
+<a href="https://osf.io/yrfjk"> <img src="images/Uromyces aloes/Uromyces aloes on ornamental aloe (1).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces aloes/Uromyces aloes on ornamental aloe (2).jpg" width="150px"> </a>  
+<a href="https://osf.io/grd3w"> <img src="images/Uromyces aloes/Uromyces aloes on ornamental aloe (2).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces aloes/Uromyces aloes on ornamental aloe (3).jpg" width="150px"> </a>  
+<a href="https://osf.io/fqbdj"> <img src="images/Uromyces aloes/Uromyces aloes on ornamental aloe (3).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces aloes/Uromyces aloes on ornamental aloe (4).jpg" width="150px"> </a>  
+<a href="https://osf.io/nu3pa"> <img src="images/Uromyces aloes/Uromyces aloes on ornamental aloe (4).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces aloes/Uromyces aloes on ornamental aloe (5).jpg" width="150px"> </a>  
+<a href="https://osf.io/e4jqv"> <img src="images/Uromyces aloes/Uromyces aloes on ornamental aloe (5).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces aloes/Uromyces aloes on ornamental aloe (6).jpg" width="150px"> </a>  
+<a href="https://osf.io/fd3zg"> <img src="images/Uromyces aloes/Uromyces aloes on ornamental aloe (6).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces aloes/Uromyces aloes on ornamental aloe (7).jpg" width="150px"> </a>  
-
-<a href="hello"> <img src="images/Uromyces aloes/Uromyces aloes on aloe (8).JPG" width="150px"> </a>  
-
-<a href="hello"> <img src="images/Uromyces aloes/Uromyces aloes on ornamental aloe (1).jpg" width="150px"> </a>  
-
-<a href="hello"> <img src="images/Uromyces aloes/Uromyces aloes on ornamental aloe (2).jpg" width="150px"> </a>  
-
-<a href="hello"> <img src="images/Uromyces aloes/Uromyces aloes on ornamental aloe (3).jpg" width="150px"> </a>  
-
-<a href="hello"> <img src="images/Uromyces aloes/Uromyces aloes on ornamental aloe (4).jpg" width="150px"> </a>  
-
-<a href="hello"> <img src="images/Uromyces aloes/Uromyces aloes on ornamental aloe (5).jpg" width="150px"> </a>  
-
-<a href="hello"> <img src="images/Uromyces aloes/Uromyces aloes on ornamental aloe (6).jpg" width="150px"> </a>  
-
-<a href="hello"> <img src="images/Uromyces aloes/Uromyces aloes on ornamental aloe (7).jpg" width="150px"> </a>  
- 
+<a href="https://osf.io/g769d"> <img src="images/Uromyces aloes/Uromyces aloes on ornamental aloe (7).jpg" width="150px"> </a>
  
 ## _Uromyces appendiculatus_
 
-<a href="hello"> <img src="images/Uromyces appendiculatus/Uromyces appendiculatus on Phaseolus vulgaris (1).JPG" width="150px"> </a>  
+<a href="https://osf.io/s6bq7"> <img src="images/Uromyces appendiculatus/Uromyces appendiculatus on Phaseolus vulgaris (1).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces appendiculatus/Uromyces appendiculatus on Phaseolus vulgaris (2).JPG" width="150px"> </a>  
+<a href="https://osf.io/v9y7f"> <img src="images/Uromyces appendiculatus/Uromyces appendiculatus on Phaseolus vulgaris (2).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces appendiculatus/Uromyces appendiculatus on Phaseolus vulgaris (3).jpg" width="150px"> </a>  
+<a href="https://osf.io/54mzg"> <img src="images/Uromyces appendiculatus/Uromyces appendiculatus on Phaseolus vulgaris (3).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces appendiculatus/Uromyces appendiculatus on Phaseolus vulgaris (4).jpg" width="150px"> </a>  
+<a href="https://osf.io/67dbm"> <img src="images/Uromyces appendiculatus/Uromyces appendiculatus on Phaseolus vulgaris (4).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces appendiculatus/Uromyces appendiculatus on Phaseolus vulgaris (5).jpg" width="150px"> </a>  
+<a href="https://osf.io/ztbp7"> <img src="images/Uromyces appendiculatus/Uromyces appendiculatus on Phaseolus vulgaris (5).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces appendiculatus/Uromyces appendiculatus on Phaseolus vulgaris (6).JPG" width="150px"> </a>  
+<a href="https://osf.io/kcwxq"> <img src="images/Uromyces appendiculatus/Uromyces appendiculatus on Phaseolus vulgaris (6).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces appendiculatus/Uromyces appendiculatus on Phaseolus vulgaris (7).JPG" width="150px"> </a>  
+<a href="https://osf.io/73q6g"> <img src="images/Uromyces appendiculatus/Uromyces appendiculatus on Phaseolus vulgaris (7).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces appendiculatus/Uromyces appendiculatus on Phaseolus vulgaris (8).JPG" width="150px"> </a>  
+<a href="https://osf.io/7en8b"> <img src="images/Uromyces appendiculatus/Uromyces appendiculatus on Phaseolus vulgaris (8).JPG" width="150px"> </a>  
 
 ## _Uromyces badius_
 
-<a href="hello"> <img src="images/Uromyces badius/Uromyces badius on Haemanthus (1).jpg" width="150px"> </a>  
+<a href="https://osf.io/nvbex"> <img src="images/Uromyces badius/Uromyces badius on Haemanthus (1).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces badius/Uromyces badius on Haemanthus (2).jpg" width="150px"> </a>  
+<a href="https://osf.io/u8vcf"> <img src="images/Uromyces badius/Uromyces badius on Haemanthus (2).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces badius/Uromyces badius on Haemanthus (3).JPG" width="150px"> </a>  
+<a href="https://osf.io/6bhcq"> <img src="images/Uromyces badius/Uromyces badius on Haemanthus (3).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces badius/Uromyces badius on Haemanthus (4).jpg" width="150px"> </a>  
+<a href="https://osf.io/5cnha"> <img src="images/Uromyces badius/Uromyces badius on Haemanthus (4).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces badius/Uromyces badius on Haemanthus (5).jpg" width="150px"> </a>  
+<a href="https://osf.io/vbujy"> <img src="images/Uromyces badius/Uromyces badius on Haemanthus (5).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces badius/Uromyces badius on Haemanthus (6).jpg" width="150px"> </a>  
+<a href="https://osf.io/w3evm"> <img src="images/Uromyces badius/Uromyces badius on Haemanthus (6).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces badius/Uromyces badius on Haemanthus (7).jpg" width="150px"> </a>  
+<a href="https://osf.io/3rp4z"> <img src="images/Uromyces badius/Uromyces badius on Haemanthus (7).jpg" width="150px"> </a>  
 
 ## _Uromyces bidenticola_
- <a href="hello"> <img src="images/Uromyces bidenticola/Uromyces bidenticola on Bidens pilosa (1).jpg" width="150px"> </a>
+ <a href="https://osf.io/y4e3d"> <img src="images/Uromyces bidenticola/Uromyces bidenticola on Bidens pilosa (1).jpg" width="150px"> </a>
  
-<a href="hello"> <img src="images/Uromyces bidenticola/Uromyces bidenticola on Bidens pilosa (2).jpg" width="150px"> </a> 
+<a href="https://osf.io/akw28"> <img src="images/Uromyces bidenticola/Uromyces bidenticola on Bidens pilosa (2).jpg" width="150px"> </a> 
 
- <a href="hello"> <img src="images/Uromyces bidenticola/Uromyces bidenticola on Bidens pilosa (4).jpg" width="150px"> </a> 
+ <a href="https://osf.io/svfmq"> <img src="images/Uromyces bidenticola/Uromyces bidenticola on Bidens pilosa (4).jpg" width="150px"> </a> 
  
-  <a href="hello"> <img src="images/Uromyces bidenticola/Uromyces bidenticola on Bidens pilosa (5).jpg" width="150px"> </a> 
+  <a href="https://osf.io/syc3f"> <img src="images/Uromyces bidenticola/Uromyces bidenticola on Bidens pilosa (5).jpg" width="150px"> </a> 
  
 ## _Uromyces dianthi_
 
-<a href="hello"> <img src="images/Uromyces dianthi/Uromyces dianthi on dianthus (1).jpg" width="150px"> </a>  
+<a href="https://osf.io/9w28j"> <img src="images/Uromyces dianthi/Uromyces dianthi on dianthus (1).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces dianthi/Uromyces dianthi on dianthus (2).jpg" width="150px"> </a>  
+<a href="https://osf.io/g8d59"> <img src="images/Uromyces dianthi/Uromyces dianthi on dianthus (2).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces dianthi/Uromyces dianthi on dianthus (3).jpg" width="150px"> </a>  
+<a href="https://osf.io/r3d8s"> <img src="images/Uromyces dianthi/Uromyces dianthi on dianthus (3).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces dianthi/Uromyces dianthi on dianthus (4).jpg" width="150px"> </a> 
+<a href="https://osf.io/q6vms"> <img src="images/Uromyces dianthi/Uromyces dianthi on dianthus (4).jpg" width="150px"> </a> 
 
-<a href="hello"> <img src="images/Uromyces dianthi/Uromyces dianthi on dianthus (5).jpg" width="150px"> </a>  
+<a href="https://osf.io/t7zwr"> <img src="images/Uromyces dianthi/Uromyces dianthi on dianthus (5).jpg" width="150px"> </a>  
  
 ## _Uromyces ixiae_
 
-<a href="hello"> <img src="images/Uromyces ixiae/Uromyces ixiae on gladiolus (1).jpg" width="150px"> </a>  
+<a href="https://osf.io/gmdu9"> <img src="images/Uromyces ixiae/Uromyces ixiae on gladiolus (1).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces ixiae/Uromyces ixiae on gladiolus (2).jpg" width="150px"> </a>  
+<a href="https://osf.io/zjnh4"> <img src="images/Uromyces ixiae/Uromyces ixiae on gladiolus (2).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces ixiae/Uromyces ixiae on gladiolus (3).jpg" width="150px"> </a>  
+<a href="https://osf.io/rzv52"> <img src="images/Uromyces ixiae/Uromyces ixiae on gladiolus (3).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces ixiae/Uromyces ixiae on gladiolus (4).jpg" width="150px"> </a>  
+<a href="https://osf.io/m7yr2"> <img src="images/Uromyces ixiae/Uromyces ixiae on gladiolus (4).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces ixiae/Uromyces ixiae on gladiolus (5).jpg" width="150px"> </a> 
+<a href="https://osf.io/rqfm4"> <img src="images/Uromyces ixiae/Uromyces ixiae on gladiolus (5).jpg" width="150px"> </a> 
 
-<a href="hello"> <img src="images/Uromyces ixiae/Uromyces ixiae on gladiolus (6).jpg" width="150px"> </a>  
+<a href="https://osf.io/4yf8h"> <img src="images/Uromyces ixiae/Uromyces ixiae on gladiolus (6).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces ixiae/Uromyces ixiae on gladiolus (7).jpg" width="150px"> </a>  
+<a href="https://osf.io/hp6xn"> <img src="images/Uromyces ixiae/Uromyces ixiae on gladiolus (7).jpg" width="150px"> </a>  
  
 
 ## _Uromyces kentaniensis_
 
-<a href="hello"> <img src="images/Uromyces kentaniensis/Uromyces kentaniensis on cobra lily (1).jpg" width="150px"> </a>  
+<a href="https://osf.io/uxz5c"> <img src="images/Uromyces kentaniensis/Uromyces kentaniensis on cobra lily (1).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces kentaniensis/Uromyces kentaniensis on cobra lily (2).jpg" width="150px"> </a>  
+<a href="https://osf.io/qy2ht"> <img src="images/Uromyces kentaniensis/Uromyces kentaniensis on cobra lily (2).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces kentaniensis/Uromyces kentaniensis on cobra lily (3).jpg" width="150px"> </a>  
+<a href="https://osf.io/436p2"> <img src="images/Uromyces kentaniensis/Uromyces kentaniensis on cobra lily (3).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces kentaniensis/Uromyces kentaniensis on cobra lily (4).JPG" width="150px"> </a>  
+<a href="https://osf.io/c7asx"> <img src="images/Uromyces kentaniensis/Uromyces kentaniensis on cobra lily (4).JPG" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces kentaniensis/Uromyces kentaniensis on cobra lily (5).JPG" width="150px"> </a>  
+<a href="https://osf.io/hm9s3"> <img src="images/Uromyces kentaniensis/Uromyces kentaniensis on cobra lily (5).JPG" width="150px"> </a>  
  
 ## _Uromyces rumicis_
 
-<a href="hello"> <img src="images/Uromyces rumicis/Uromyces rumicis on Rumex crispus (1).jpg" width="150px"> </a>  
+<a href="https://osf.io/qxj4e"> <img src="images/Uromyces rumicis/Uromyces rumicis on Rumex crispus (1).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces rumicis/Uromyces rumicis on Rumex crispus (2).jpg" width="150px"> </a>  
+<a href="https://osf.io/5bws8"> <img src="images/Uromyces rumicis/Uromyces rumicis on Rumex crispus (2).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces rumicis/Uromyces rumicis on Rumex crispus (3).jpg" width="150px"> </a>  
+<a href="https://osf.io/ge2s9"> <img src="images/Uromyces rumicis/Uromyces rumicis on Rumex crispus (3).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces rumicis/Uromyces rumicis on Rumex crispus (4).jpg" width="150px"> </a>  
+<a href="https://osf.io/4tzmc"> <img src="images/Uromyces rumicis/Uromyces rumicis on Rumex crispus (4).jpg" width="150px"> </a>  
 
-<a href="hello"> <img src="images/Uromyces rumicis/Uromyces rumicis on Rumex crispus (5).jpg" width="150px"> </a>  
+<a href="https://osf.io/yw8tx"> <img src="images/Uromyces rumicis/Uromyces rumicis on Rumex crispus (5).jpg" width="150px"> </a>  
 
 # **Under Investigation**
 
 ## _Bromus diandrus_ 
 
-<a href="hello"> <img src="images/Under Investigation/Bromus diandrus/Leaf rust on Bromus diandrus (1).jpg" width="150px"> </a>
+<a href="https://osf.io/ymzgf"> <img src="images/Under Investigation/Bromus diandrus/Leaf rust on Bromus diandrus (1).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Under Investigation/Bromus diandrus/Leaf rust on Bromus diandrus (2).jpg" width="150px"> </a>
+<a href="https://osf.io/u3aj6"> <img src="images/Under Investigation/Bromus diandrus/Leaf rust on Bromus diandrus (2).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Under Investigation/Bromus diandrus/Leaf rust on Bromus diandrus (3).jpg" width="150px"> </a>
+<a href="https://osf.io/mqvta"> <img src="images/Under Investigation/Bromus diandrus/Leaf rust on Bromus diandrus (3).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Under Investigation/Bromus diandrus/Leaf rust on Bromus diandrus (4).jpg" width="150px"> </a>
+<a href="https://osf.io/up79n"> <img src="images/Under Investigation/Bromus diandrus/Leaf rust on Bromus diandrus (4).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Under Investigation/Bromus diandrus/Leaf rust on Bromus diandrus (5).jpg" width="150px"> </a>
+<a href="https://osf.io/bejy8"> <img src="images/Under Investigation/Bromus diandrus/Leaf rust on Bromus diandrus (5).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Under Investigation/Bromus diandrus/Leaf rust on Bromus diandrus (6).jpg" width="150px"> </a>
+<a href="https://osf.io/8pg4r"> <img src="images/Under Investigation/Bromus diandrus/Leaf rust on Bromus diandrus (6).jpg" width="150px"> </a>
 
 ## _Thinopyrum distichum_
 
-<a href="hello"> <img src="images/Under Investigation/Thinopyrum distichum/Leaf rust on Thinopyrum distichum (1).jpg" width="150px"> </a>
+<a href="https://osf.io/zu8rx"> <img src="images/Under Investigation/Thinopyrum distichum/Leaf rust on Thinopyrum distichum (1).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Under Investigation/Thinopyrum distichum/Leaf rust on Thinopyrum distichum (3).jpg" width="150px"> </a>
+<a href="https://osf.io/fv78m"> <img src="images/Under Investigation/Thinopyrum distichum/Leaf rust on Thinopyrum distichum (3).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Under Investigation/Thinopyrum distichum/Leaf rust on Thinopyrum distichum (4).jpg" width="150px"> </a>
+<a href="https://osf.io/pzf9q"> <img src="images/Under Investigation/Thinopyrum distichum/Leaf rust on Thinopyrum distichum (4).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Under Investigation/Thinopyrum distichum/Leaf rust on Thinopyrum distichum (6).jpg" width="150px"> </a>
+<a href="https://osf.io/24caq"> <img src="images/Under Investigation/Thinopyrum distichum/Leaf rust on Thinopyrum distichum (6).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Under Investigation/Thinopyrum distichum/Leaf rust on Thinopyrum distichum (7).jpg" width="150px"> </a>
+<a href="https://osf.io/8xg2k"> <img src="images/Under Investigation/Thinopyrum distichum/Leaf rust on Thinopyrum distichum (7).jpg" width="150px"> </a>
 
-<a href="hello"> <img src="images/Under Investigation/Thinopyrum distichum/Thinopyrum distichum.jpg" width="150px"> </a>
+<a href="https://osf.io/y34uj"> <img src="images/Under Investigation/Thinopyrum distichum/Thinopyrum distichum.jpg" width="150px"> </a>
 
