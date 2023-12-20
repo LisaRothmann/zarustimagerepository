@@ -24,7 +24,7 @@ Associated Professor in plant pathology in the Department of Plant Sciences at t
 ## Dr Cornel Bender 
 insert short bio here
 
-<img src="profilephotos/cornel.jpg" width="350px">
+<img src="profilephotos/cornel.JPG" width="350px">
 
 
 # Curators 
